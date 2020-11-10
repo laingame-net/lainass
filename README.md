@@ -3,7 +3,7 @@ Timed subtitles of Serial Experiments Lain on PSX.
 (repo name accidental)
 ## Instructions
 1. Download this file: [sub.zip](https://laingame.net/sub.zip).
-2. Download and install [Aegisub](http://www.aegisub.org/). (works on any OS)
+2. Download and install [Aegisub](http://www.aegisub.org/downloads/). (works on any OS)
 3. Unpack sub.zip.
 4. Choose and open any .ass file. (red eye icon)
 5. DO TIMING. You don't have to know Japanese for this task, most of the time you can guess where phrase starts and ends.
