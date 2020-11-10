@@ -21,6 +21,6 @@ Not all entries have a spoken word in it.
 Only the Dc branch has video, rest of the game is audio only.
 ## Troubleshooting
 #### The spectogram is missing / Audio wont play.
-+ Try the 32bit Aegisub version instead of 64bit.
+- Try the 32bit Aegisub version instead of 64bit.
 - Install a [rolling release version of Aegisub](http://plorkyeran.com/aegisub/).
 - Use [SubtitleEdit](https://github.com/SubtitleEdit/subtitleedit/releases) instead. (not sure about how it exports the files, ask me before doing more!)
