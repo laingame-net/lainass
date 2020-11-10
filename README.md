@@ -10,8 +10,10 @@ Timed subtitles of Serial Experiments Lain on PSX.
 6. Don't forget to SAVE file after edit.
 7. Post file to [#subtitles](https://discord.gg/gJ3z6SRfPS) channel.
 8. Repeat 4-7
+
 ## Spreadsheet
 You can use this [spreadsheet](https://docs.google.com/spreadsheets/d/1VVe7hY-OlCGjOQb25DTuUbZo9QGbod6fFKrCyFWOdLE) to see which files are already done.
+
 ## More info
 #### Why are some numbers missing?
 Not all entries have a spoken word in it.
@@ -19,6 +21,6 @@ Not all entries have a spoken word in it.
 Only the Dc branch has video, rest of the game is audio only.
 ## Troubleshooting
 #### The spectogram is missing / Audio wont play.
-1. Try the 32bit Aegisub version instead of 64bit.
-2. Install a [rolling release version of Aegisub](http://plorkyeran.com/aegisub/).
-3. Use [SubtitleEdit](https://github.com/SubtitleEdit/subtitleedit/releases) instead. (not sure about how it exports the files, ask me before doing more!)
++ Try the 32bit Aegisub version instead of 64bit.
+- Install a [rolling release version of Aegisub](http://plorkyeran.com/aegisub/).
+- Use [SubtitleEdit](https://github.com/SubtitleEdit/subtitleedit/releases) instead. (not sure about how it exports the files, ask me before doing more!)
