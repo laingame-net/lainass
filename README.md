@@ -16,7 +16,7 @@ You can use this [spreadsheet](https://docs.google.com/spreadsheets/d/1VVe7hY-Ol
 
 ## More info
 #### Why are some numbers missing?
-Not all entries have a spoken word in it.s
+Not all entries have a spoken word in it.
 #### Where are the videos?
 Only the Dc branch has video, rest of the game is audio only.
 #### What about translations?
