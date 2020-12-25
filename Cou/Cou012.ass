@@ -9,8 +9,8 @@ YCbCr Matrix: None
 
 [Aegisub Project Garbage]
 Audio File: Cou012.mp4
-Scroll Position: 34
-Active Line: 43
+Scroll Position: 9
+Active Line: 34
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -51,8 +51,7 @@ Dialogue: 0,0:01:54.50,0:02:00.76,Default,Toko,0,0,0,,Thank you. Anyway, let’s
 Dialogue: 0,0:02:01.36,0:02:04.57,Default,Lain,0,0,0,,Uh, uh. But I’ll do what you asked me to do, Sensei.
 Dialogue: 0,0:02:04.77,0:02:10.29,Default,Toko,0,0,0,,Great! Hee, hee. Actually, I’m the one who’s tired.
 Dialogue: 0,0:02:10.88,0:02:13.29,Default,Lain,0,0,0,,You’re tired of me?
-Dialogue: 0,0:02:13.29,0:02:15.06,Default,Toko,0,0,0,,No, no!
-Dialogue: 0,0:02:13.29,0:02:15.06,Default,Toko,0,0,0,,Don’t think that.
+Dialogue: 0,0:02:13.29,0:02:15.06,Default,Toko,0,0,0,,No, no! I don’t think that.
 Dialogue: 0,0:02:15.06,0:02:17.26,Default,Toko,0,0,0,,I’ve had a lot of other work to do today, too.
 Dialogue: 0,0:02:17.78,0:02:20.74,Default,Toko,0,0,0,,I like you and I’ll miss you until we meet again, Lain.
 Dialogue: 0,0:02:21.12,0:02:22.00,Default,Lain,0,0,0,,That makes me feel better.
