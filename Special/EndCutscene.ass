@@ -10,8 +10,8 @@ ScaledBorderAndShadow: yes
 YCbCr Matrix: TV.601
 
 [Aegisub Project Garbage]
-Audio File: Xv0025.mp4
-Video File: Xv0025.mp4
+Audio File: EndCutscene.mp4
+Video File: EndCutscene.mp4
 Video AR Mode: 4
 Video AR Value: 1.333333
 Active Line: 16
@@ -39,7 +39,7 @@ Dialogue: 0,0:01:27.45,0:01:28.04,Default,,0,0,0,,Computer?
 Dialogue: 0,0:01:28.04,0:01:28.96,Default,,0,0,0,,A friend?
 Dialogue: 0,0:01:30.16,0:01:31.61,Default,,0,0,0,,We were talking about it before.
 Dialogue: 0,0:02:03.39,0:02:05.69,Default,,0,0,0,,I'm going back to you.
-Dialogue: 0,0:02:12.11,0:02:12.70,Default,,0,0,0,,… and so…
+Dialogue: 0,0:02:12.11,0:02:12.70,Default,,0,0,0,,…and so…
 Dialogue: 0,0:02:12.70,0:02:14.58,Default,,0,0,0,,…when we want to increase the processing speed
 Dialogue: 0,0:02:14.58,0:02:16.58,Default,,0,0,0,,…we must take into account the fact that the processor can overheat.
 Dialogue: 0,0:02:18.74,0:02:19.68,Default,,0,0,0,,That's true!
