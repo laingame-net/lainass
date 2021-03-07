@@ -9,8 +9,7 @@ YCbCr Matrix: None
 
 [Aegisub Project Garbage]
 Audio File: Cou008.mp4
-Scroll Position: 21
-Active Line: 30
+Active Line: 10
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -28,7 +27,7 @@ Dialogue: 0,0:00:21.56,0:00:23.38,Default,Touko,0,0,0,,…thank you.
 Dialogue: 0,0:00:24.41,0:00:30.13,Default,Touko,0,0,0,,So I thought we could work with this today. Can we talk about this?
 Dialogue: 0,0:00:31.41,0:00:34.05,Default,Lain,0,0,0,,They had that at the last hospital.
 Dialogue: 0,0:00:34.74,0:00:38.24,Default,Touko,0,0,0,,Really? I wanted to play with this.
-Dialogue: 0,0:00:39.06,0:00:40.93,Default,Lain,0,0,0,,What kind of test is it?
+Dialogue: 0,0:00:39.06,0:00:40.93,Default,Lain,0,0,0,,That's some kind of test, isn't it?
 Dialogue: 0,0:00:41.38,0:00:44.29,Default,Touko,0,0,0,,Amazing Lain! Do you know about it?
 Dialogue: 0,0:00:44.80,0:00:48.21,Default,Touko,0,0,0,,They call this a Rorschach Test.
 Dialogue: 0,0:00:49.12,0:00:52.28,Default,Touko,0,0,0,,This isn’t really a test.

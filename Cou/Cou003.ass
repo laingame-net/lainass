@@ -9,8 +9,8 @@ YCbCr Matrix: None
 
 [Aegisub Project Garbage]
 Audio File: Cou003.mp4
-Scroll Position: 26
-Active Line: 36
+Scroll Position: 15
+Active Line: 25
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -22,7 +22,7 @@ Dialogue: 0,0:00:00.25,0:00:02.41,Default,Lain,0,0,0,,Are there different kinds 
 Dialogue: 0,0:00:02.88,0:00:09.58,Default,Touko,0,0,0,,That’s right; although they’re basically all they same, depending on how they’re prepared there are different kinds.
 Dialogue: 0,0:00:10.01,0:00:11.25,Default,Lain,0,0,0,,Different kinds?
 Dialogue: 0,0:00:11.45,0:00:13.12,Default,Touko,0,0,0,,Yes, in tea too.
-Dialogue: 0,0:00:13.37,0:00:18.02,Default,Touko,0,0,0,,Depending on the way the leaves are dried and the way the tea is poured, the same leaves can be very different.
+Dialogue: 0,0:00:13.37,0:00:18.02,Default,Touko,0,0,0,,Depending on the way the leaves are picked and the way the tea is brewed, the same leaves can be very different.
 Dialogue: 0,0:00:18.97,0:00:19.86,Default,Lain,0,0,0,,People too?
 Dialogue: 0,0:00:20.01,0:00:20.33,Default,Touko,0,0,0,,Hmm?
 Dialogue: 0,0:00:21.18,0:00:22.66,Default,Lain,0,0,0,,Are there different kinds of people as well?
@@ -43,7 +43,8 @@ Dialogue: 0,0:01:32.61,0:01:38.10,Default,Touko,0,0,0,,If you’re worried about
 Dialogue: 0,0:01:39.42,0:01:45.48,Default,Touko,0,0,0,,Not to help you stop having those dreams, but rather helping you to explain things you don’t understand.
 Dialogue: 0,0:01:45.48,0:01:48.61,Default,Touko,0,0,0,,If you come to me with your problems, I’d be really happy.
 Dialogue: 0,0:01:49.50,0:01:55.50,Default,Touko,0,0,0,,You know, I’ve studied a lot to help you answer those kinds of questions; I’m still studying actually.
-Dialogue: 0,0:01:56.57,0:02:11.21,Default,Touko,0,0,0,,If you’re ever in trouble or something, and should you want to come and talk to me, that’d be OK. I’d like to know more about you Lain.
+Dialogue: 0,0:01:56.57,0:02:05.19,Default,Touko,0,0,0,,If you’re ever in trouble or something, I'd be glad if you could come and talk with me.
+Dialogue: 0,0:02:05.19,0:02:07.19,Default,Touko,0,0,0,,I’d like to know more about you Lain.
 Dialogue: 0,0:02:12.37,0:02:13.30,Default,Touko,0,0,0,,Would that be OK?
 Dialogue: 0,0:02:15.17,0:02:17.40,Default,Touko,0,0,0,,I’m so glad!
 Dialogue: 0,0:02:18.17,0:02:20.41,Default,Touko,0,0,0,,Starting today you and I are friends!

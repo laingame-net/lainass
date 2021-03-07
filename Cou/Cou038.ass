@@ -9,8 +9,7 @@ YCbCr Matrix: None
 
 [Aegisub Project Garbage]
 Audio File: Cou038.mp4
-Scroll Position: 18
-Active Line: 23
+Active Line: 5
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -23,7 +22,6 @@ Dialogue: 0,0:00:04.88,0:00:10.80,Default,Toko,0,0,0,,The brain isn’t the only
 Dialogue: 0,0:00:10.80,0:00:15.66,Default,Toko,0,0,0,,We know that many types of disease occur because of trauma to the brain.
 Dialogue: 0,0:00:15.66,0:00:19.60,Default,Lain,0,0,0,,When the brain is injured, something is broken?
 Dialogue: 0,0:00:19.60,0:00:26.00,Default,Toko,0,0,0,,The human brain is very complex, and there are many things we don’t understand about it.
-Comment: 0,0:00:00.00,0:00:00.00,Default,Toko,0,0,0,,We know that some parts of the brain seem to have a certain function.
 Dialogue: 0,0:00:26.00,0:00:30.95,Default,Toko,0,0,0,,We know a little about where and when things take place in the brain.
 Dialogue: 0,0:00:30.95,0:00:32.91,Default,Lain,0,0,0,,Memories are stored in the hippocampus.
 Dialogue: 0,0:00:32.91,0:00:33.68,Default,Toko,0,0,0,,Yes.

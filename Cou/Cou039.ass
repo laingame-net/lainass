@@ -10,7 +10,7 @@ YCbCr Matrix: None
 [Aegisub Project Garbage]
 Audio File: Cou039.mp4
 Scroll Position: 30
-Active Line: 39
+Active Line: 46
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -64,7 +64,6 @@ Dialogue: 0,0:02:22.60,0:02:25.91,Default,Toko,0,0,0,,I see. You’re right.
 Dialogue: 0,0:02:26.20,0:02:28.60,Default,Lain,0,0,0,,What kind of research do you do?
 Dialogue: 0,0:02:30.15,0:02:38.77,Default,Toko,0,0,0,,As I said before, I’m trying to develop a new treatment system using my background as a counselor and psychiatrist.
 Dialogue: 0,0:02:39.55,0:02:42.97,Default,Toko,0,0,0,,But it looks like I’m failing as a counselor and a psychiatrist right now.
-Comment: 0,0:00:00.00,0:00:00.00,Default,Toko,0,0,0,,I’m sorry.
 Dialogue: 0,0:02:42.97,0:02:44.35,Default,Lain,0,0,0,,Why?
 Dialogue: 0,0:02:45.02,0:02:52.08,Default,Toko,0,0,0,,I think I’m becoming mentally unstable, now. Just a few moments ago, I…I’m sorry.
 Dialogue: 0,0:02:52.42,0:02:55.60,Default,Lain,0,0,0,,Toko-san… are you ok?
