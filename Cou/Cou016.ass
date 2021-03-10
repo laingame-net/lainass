@@ -9,8 +9,8 @@ YCbCr Matrix: None
 
 [Aegisub Project Garbage]
 Audio File: Cou016.mp4
-Scroll Position: 21
-Active Line: 30
+Scroll Position: 6
+Active Line: 13
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -23,7 +23,7 @@ Dialogue: 0,0:00:01.70,0:00:04.84,Default,Toko,0,0,0,,That’s probably because 
 Dialogue: 0,0:00:05.30,0:00:11.44,Default,Toko,0,0,0,,I think I was probably weak and that I was trying to run away because of it.
 Dialogue: 0,0:00:11.90,0:00:14.57,Default,Lain,0,0,0,,Do you think I’m trying to run away from myself?
 Dialogue: 0,0:00:15.10,0:00:20.09,Default,Toko,0,0,0,,I don’t think so. But you want to change yourself, don’t you?
-Dialogue: 0,0:00:20.73,0:00:24.42,Default,Lain,0,0,0,,I just don’t want to see any more bad dreams. That’s how I feel.
+Dialogue: 0,0:00:20.81,0:00:24.42,Default,Lain,0,0,0,,I just don’t want to see any more bad dreams. I think that's how i feel.
 Dialogue: 0,0:00:26.01,0:00:31.06,Default,Toko,0,0,0,,Could it be that you don’t want to be the person who sees the bad dreams?
 Dialogue: 0,0:00:31.28,0:00:33.26,Default,Toko,0,0,0,,Maybe you feel that way somewhere deep inside yourself?
 Dialogue: 0,0:00:33.48,0:00:38.41,Default,Toko,0,0,0,,Could it be that you are subconsciously trying to construct a “me” that isn’t “me”?

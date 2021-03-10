@@ -9,6 +9,8 @@ YCbCr Matrix: None
 
 [Aegisub Project Garbage]
 Audio File: Cou020.mp4
+Scroll Position: 29
+Active Line: 32
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -16,7 +18,7 @@ Style: Default,Arial,14,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
-Dialogue: 0,0:00:00.00,0:00:01.45,Default,Toko,0,0,0,,Good morning, Lain.
+Dialogue: 0,0:00:00.22,0:00:01.21,Default,Toko,0,0,0,,Good morning, Lain.
 Dialogue: 0,0:00:01.84,0:00:03.83,Default,Lain,0,0,0,,Good morning, Toko-san.
 Dialogue: 0,0:00:03.83,0:00:05.91,Default,Toko,0,0,0,,Have you seen anything since then?
 Dialogue: 0,0:00:06.36,0:00:09.49,Default,Lain,0,0,0,,No, I haven’t. Honestly.
@@ -30,7 +32,7 @@ Dialogue: 0,0:00:29.02,0:00:34.20,Default,Toko,0,0,0,,You said that you heard th
 Dialogue: 0,0:00:34.76,0:00:36.64,Default,Lain,0,0,0,,There’s air.
 Dialogue: 0,0:00:36.64,0:00:38.84,Default,Toko,0,0,0,,Uh, huh. And aside from that?
 Dialogue: 0,0:00:39.29,0:00:43.35,Default,Lain,0,0,0,,Clouds. The sun. The stars.
-Dialogue: 0,0:00:44.00,0:00:46.90,Default,Toko,0,0,0,,Do you know about the radio wave for TV and cell phones?
+Dialogue: 0,0:00:44.00,0:00:46.90,Default,Toko,0,0,0,,Do you know about the radio waves for TV and cell phones?
 Dialogue: 0,0:00:47.30,0:00:50.48,Default,Lain,0,0,0,,Yes. The information travels wirelessly?
 Dialogue: 0,0:00:50.48,0:00:52.96,Default,Toko,0,0,0,,Right. The information flies through the sky.
 Dialogue: 0,0:00:53.89,0:00:56.70,Default,Lain,0,0,0,,Am I hearing that information?
@@ -50,12 +52,10 @@ Dialogue: 0,0:01:32.11,0:01:34.47,Default,Toko,0,0,0,,You’ve been studying up 
 Dialogue: 0,0:01:35.74,0:01:38.73,Default,Toko,0,0,0,,Ok. I’ll fill you in a little more on this.
 Dialogue: 0,0:01:39.44,0:01:54.15,Default,Toko,0,0,0,,The definition of “delusion” is taking a mistaken idea and believing in your own mind that it is correct.
 Dialogue: 0,0:01:54.46,0:02:00.02,Default,Toko,0,0,0,,But for you, Lain, you say that you might have felt or sensed something.
-Dialogue: 0,0:02:00.02,0:02:03.68,Default,Toko,0,0,0,,If you are not aware of it, it is not a delusion.
-; Line below not timed, should it be there?
-Dialogue: 0,0:00:00.00,0:00:00.00,Default,Toko,0,0,0,,But you don’t have that.
-Dialogue: 0,0:02:03.68,0:02:07.20,Default,Toko,0,0,0,,You have thoughts, considerations.
-Dialogue: 0,0:02:07.20,0:02:08.44,Default,Lain,0,0,0,,Considerations?
-Dialogue: 0,0:02:08.44,0:02:11.88,Default,Toko,0,0,0,,You can forget that word if you’d like.
+Dialogue: 0,0:02:00.02,0:02:03.68,Default,Toko,0,0,0,,You don't have conviction in your feelings, so they aren't delusions.
+Dialogue: 0,0:02:04.12,0:02:07.20,Default,Toko,0,0,0,,You have thoughts, in technical term, we call it ideas of reference.
+Dialogue: 0,0:02:07.20,0:02:08.44,Default,Lain,0,0,0,,Ideas of reference?
+Dialogue: 0,0:02:08.44,0:02:11.88,Default,Toko,0,0,0,,You can forget that phrase if you’d like.
 Dialogue: 0,0:02:12.80,0:02:18.88,Default,Toko,0,0,0,,As I mentioned before, a delusion is generally something intertwined with one’s self.
 Dialogue: 0,0:02:18.88,0:02:21.97,Default,Toko,0,0,0,,Most of the time, there are no delusions that don't involve me.
 Dialogue: 0,0:02:21.97,0:02:23.44,Default,Lain,0,0,0,,I’m not delusional?
