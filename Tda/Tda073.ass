@@ -9,8 +9,7 @@ YCbCr Matrix: None
 
 [Aegisub Project Garbage]
 Audio File: Tda073.mp4
-Scroll Position: 1
-Active Line: 2
+Active Line: 3
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -18,14 +17,14 @@ Style: Default,Arial,14,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
-Dialogue: 0,0:00:00.00,0:00:00.00,Default,Toko,0,0,0,,When I was organizing the data I have about Lain, I started to hear the voices of researchers although there was no one there.
-Dialogue: 0,0:00:00.00,0:00:00.00,Default,Toko,0,0,0,,I couldn’t tell what they were saying.
-Dialogue: 0,0:00:00.00,0:00:00.00,Default,Toko,0,0,0,,I’m sure it was gossip about me.
+Dialogue: 0,0:00:00.70,0:00:07.70,Default,Toko,0,0,0,,When I was organizing the data I have about Lain, I started to hear the voices of researchers although there was no one there.
+Dialogue: 0,0:00:09.27,0:00:11.50,Default,Toko,0,0,0,,I couldn’t tell what they were saying.
+Dialogue: 0,0:00:12.50,0:00:14.70,Default,Toko,0,0,0,,I’m sure it was gossip about me.
 Dialogue: 0,0:00:16.21,0:00:18.56,Default,Toko,0,0,0,,I thought I heard Yoshida-kun’s voice, too.
 Dialogue: 0,0:00:20.20,0:00:21.66,Default,Toko,0,0,0,,Why did I hear him?
 Dialogue: 0,0:00:22.82,0:00:23.96,Default,Toko,0,0,0,,What’s wrong?
 Dialogue: 0,0:00:25.16,0:00:27.75,Default,Toko,0,0,0,,What’s happening to me?
-Dialogue: 0,0:00:29.65,0:00:30.69,Default,Toko,0,0,0,,Someone tell me!
+Dialogue: 0,0:00:28.56,0:00:30.69,Default,Toko,0,0,0,,Someone tell me!
 Dialogue: 0,0:00:31.43,0:00:33.08,Default,Toko,0,0,0,,Someone help me.
 Dialogue: 0,0:00:35.45,0:00:37.77,Default,Toko,0,0,0,,I can’t organize data when I’m like this.
 Dialogue: 0,0:00:39.15,0:00:40.98,Default,Toko,0,0,0,,I’ll do it tomorrow.
