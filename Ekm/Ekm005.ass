@@ -19,8 +19,8 @@ Style: Default,Arial,14,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
 Dialogue: 0,0:00:00.41,0:00:05.23,Default,Kyoko,0,0,0,,Hey, Lain. Do you think that you’re a special person?
 Dialogue: 0,0:00:05.23,0:00:06.52,Default,Lain,0,0,0,,Special?
-Dialogue: 0,0:00:06.52,0:00:11.88,Default,Kyoko,0,0,0,,Everyone says, “Lain is not a normal girl” and “Isn’t she dangerous?”
-Dialogue: 0,0:00:11.88,0:00:15.44,Default,Kyoko,0,0,0,,I’ve known you since we were children, so I say to them “No, she is normal.”
+Dialogue: 0,0:00:06.52,0:00:11.88,Default,Kyoko,0,0,0,,Everyone says, "Lain is not a normal girl" and "Isn’t she dangerous?"
+Dialogue: 0,0:00:11.88,0:00:15.44,Default,Kyoko,0,0,0,,I’ve known you since we were children, so I say to them "No, she is normal."
 Dialogue: 0,0:00:15.77,0:00:18.24,Default,Kyoko,0,0,0,,Also, I’m a little similar to you.
 Dialogue: 0,0:00:18.24,0:00:21.80,Default,Kyoko,0,0,0,,It makes me sad that I’m not special like other people!
 Dialogue: 0,0:00:21.80,0:00:26.25,Default,Lain,0,0,0,,Do you think so? I don’t care if I’m an ordinary person.

@@ -18,10 +18,10 @@ Style: Default,Arial,14,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
 Dialogue: 0,0:00:00.00,0:00:01.95,Default,Lain,0,0,0,,Today I went to the library.
-Dialogue: 0,0:00:03.02,0:00:12.26,Default,Lain,0,0,0,,I tried to look into difficult words that Touko used like “psychoanalysis,” “counseling,” and so on.
+Dialogue: 0,0:00:03.02,0:00:12.26,Default,Lain,0,0,0,,I tried to look into difficult words that Touko used like "psychoanalysis," "counseling," and so on.
 Dialogue: 0,0:00:12.26,0:00:14.26,Default,Lain,0,0,0,,But, I couldn't understand these words completely.
 Dialogue: 0,0:00:14.75,0:00:17.90,Default,Lain,0,0,0,,Am I stupid?
-Dialogue: 0,0:00:18.71,0:00:23.40,Default,Lain,0,0,0,,…I also think I say strange things sometimes.
+Dialogue: 0,0:00:18.71,0:00:23.40,Default,Lain,0,0,0,,...I also think I say strange things sometimes.
 Dialogue: 0,0:00:23.40,0:00:27.84,Default,Lain,0,0,0,,If I tell Kyoko and her friends about my trouble, they will think there's something wrong with me.
 Dialogue: 0,0:00:27.86,0:00:29.60,Default,Lain,0,0,0,,It would be horrible if they felt like that.
-Dialogue: 0,0:00:29.64,0:00:31.74,Default,Lain,0,0,0,,I can't talk to them about my trouble…
+Dialogue: 0,0:00:29.64,0:00:31.74,Default,Lain,0,0,0,,I can't talk to them about my trouble...

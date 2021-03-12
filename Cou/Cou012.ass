@@ -23,7 +23,7 @@ Dialogue: 0,0:00:13.45,0:00:15.82,Default,Lain,0,0,0,,I have symptoms of schizop
 Dialogue: 0,0:00:16.00,0:00:20.40,Default,Toko,0,0,0,,Schizophrenia? Where did you hear a word like that? Who said that to you?
 Dialogue: 0,0:00:20.64,0:00:21.94,Default,Lain,0,0,0,,I looked it up in a book.
 Dialogue: 0,0:00:22.66,0:00:33.28,Default,Toko,0,0,0,,Lain, it’s a good things to study hard, but it’s dangerous to go digging around and diagnosing yourself when you aren’t sick.
-Dialogue: 0,0:00:33.56,0:00:36.98,Default,Toko,0,0,0,,Have you heard the expression “a lot of how sick you feel depends on what you think about it?”
+Dialogue: 0,0:00:33.56,0:00:36.98,Default,Toko,0,0,0,,Have you heard the expression "a lot of how sick you feel depends on what you think about it?"
 Dialogue: 0,0:00:37.21,0:00:39.09,Default,Lain,0,0,0,,Actually I haven’t.
 Dialogue: 0,0:00:39.52,0:00:40.76,Default,Toko,0,0,0,,Oh?
 Dialogue: 0,0:00:41.22,0:00:47.14,Default,Toko,0,0,0,,Anyway, if you start diagnosing yourself, you’re going to start believing that you have all sorts of things wrong with you.
@@ -32,7 +32,7 @@ Dialogue: 0,0:00:54.32,0:00:55.30,Default,Toko,0,0,0,,I see.
 Dialogue: 0,0:00:55.49,0:00:56.66,Default,Toko,0,0,0,,I understand.
 Dialogue: 0,0:00:57.40,0:00:59.26,Default,Toko,0,0,0,,I think you’re intentions are right.
 Dialogue: 0,0:01:00.89,0:01:03.22,Default,Toko,0,0,0,,But I’d like to ask something of you.
-Dialogue: 0,0:01:04.00,0:01:11.89,Default,Toko,0,0,0,,Please don’t go around imagining and concocting… searching, for things that you think are wrong with you.
+Dialogue: 0,0:01:04.00,0:01:11.89,Default,Toko,0,0,0,,Please don’t go around imagining and concocting... searching, for things that you think are wrong with you.
 Dialogue: 0,0:01:12.10,0:01:13.21,Default,Toko,0,0,0,,Can I ask that of you?
 Dialogue: 0,0:01:13.48,0:01:15.14,Default,Lain,0,0,0,,Then will you help me find what’s wrong?
 Dialogue: 0,0:01:15.14,0:01:16.32,Default,Toko,0,0,0,,Of course I will.
@@ -40,7 +40,7 @@ Dialogue: 0,0:01:17.32,0:01:19.00,Default,Toko,0,0,0,,So let’s make a promise.
 Dialogue: 0,0:01:19.70,0:01:22.57,Default,Toko,0,0,0,,I will tell you everything I understand about you.
 Dialogue: 0,0:01:22.86,0:01:24.78,Default,Toko,0,0,0,,I won’t hide anything from you.
 Dialogue: 0,0:01:25.40,0:01:27.97,Default,Lain,0,0,0,,If you lie can I cut off your finger?
-Dialogue: 0,0:01:28.13,0:01:32.86,Default,Toko,0,0,0,,Hmm… you can do something even worse. You can hammer a nail into my head.
+Dialogue: 0,0:01:28.13,0:01:32.86,Default,Toko,0,0,0,,Hmm... you can do something even worse. You can hammer a nail into my head.
 Dialogue: 0,0:01:33.18,0:01:34.41,Default,Lain,0,0,0,,You’re goofy, Sensei.
 Dialogue: 0,0:01:34.41,0:01:41.25,Default,Toko,0,0,0,,Seriously, though, I really want to help you.
 Dialogue: 0,0:01:42.49,0:01:47.05,Default,Toko,0,0,0,,I’m an only child, and I always wished I had a younger sister—someone like you, Lain.
@@ -58,6 +58,6 @@ Dialogue: 0,0:02:21.12,0:02:22.00,Default,Lain,0,0,0,,That makes me feel better.
 Dialogue: 0,0:02:22.00,0:02:26.26,Default,Toko,0,0,0,,Let’s end now, then. It’s getting late and we don’t want your mother to worry.
 Dialogue: 0,0:02:27.60,0:02:29.24,Default,Lain,0,0,0,,Goodbye, Toko Sensei.
 Dialogue: 0,0:02:29.54,0:02:31.00,Default,Toko,0,0,0,,Goodbye, Lain-chan.
-Dialogue: 0,0:02:31.25,0:02:35.42,Default,Lain,0,0,0,,Just call me Lain. It’s a bit weird for a “big sister” to call me Lain-chan.
+Dialogue: 0,0:02:31.25,0:02:35.42,Default,Lain,0,0,0,,Just call me Lain. It’s a bit weird for a "big sister" to call me Lain-chan.
 Dialogue: 0,0:02:35.90,0:02:40.50,Default,Toko,0,0,0,,Ok then, goodbye, Lain.
 Dialogue: 0,0:02:40.94,0:02:41.89,Default,Lain,0,0,0,,Goodbye.

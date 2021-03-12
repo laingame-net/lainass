@@ -17,7 +17,7 @@ Style: Default,Arial,14,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
-Dialogue: 0,0:00:00.30,0:00:02.36,Default,Toko,0,0,0,,Who is “another” me?
+Dialogue: 0,0:00:00.30,0:00:02.36,Default,Toko,0,0,0,,Who is "another" me?
 Dialogue: 0,0:00:02.36,0:00:03.92,Default,Toko,0,0,0,,There’s only one of me!
 Dialogue: 0,0:00:04.39,0:00:06.61,Default,Toko,0,0,0,,Why are you saying these things that make no sense?
 Dialogue: 0,0:00:06.88,0:00:11.52,Default,Toko,0,0,0,,We can think the same way and make the same judgments, it doesn't mean you’re human.

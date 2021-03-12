@@ -19,11 +19,11 @@ Style: Default,Arial,14,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
 Dialogue: 0,0:00:00.00,0:00:03.55,Default,Lain,0,0,0,,What kind of research do you do?
-Dialogue: 0,0:00:04.06,0:00:07.80,Default,Toko,0,0,0,,Research? I never mentioned that…
+Dialogue: 0,0:00:04.06,0:00:07.80,Default,Toko,0,0,0,,Research? I never mentioned that...
 Dialogue: 0,0:00:07.80,0:00:09.80,Default,Lain,0,0,0,,But this is a research center, isn’t it?
 Dialogue: 0,0:00:10.75,0:00:15.24,Default,Toko,0,0,0,,I’m still an apprentice. I haven’t done any of my own research.
 Dialogue: 0,0:00:15.24,0:00:17.35,Default,Lain,0,0,0,,You’re an apprentice after being here for 3 years?
-Dialogue: 0,0:00:18.44,0:00:20.00,Default,Toko,0,0,0,,How did you know…
+Dialogue: 0,0:00:18.44,0:00:20.00,Default,Toko,0,0,0,,How did you know...
 Dialogue: 0,0:00:20.00,0:00:23.91,Default,Lain,0,0,0,,You told me yourself.
 Dialogue: 0,0:00:25.31,0:00:26.95,Default,Toko,0,0,0,,I did?
 Dialogue: 0,0:00:27.37,0:00:28.73,Default,Toko,0,0,0,,I’m sorry.
@@ -41,7 +41,7 @@ Dialogue: 0,0:01:09.53,0:01:11.06,Default,Toko,0,0,0,,You must be shocked.
 Dialogue: 0,0:01:11.06,0:01:14.06,Default,Lain,0,0,0,,Did something happen? Toko-san?
 Dialogue: 0,0:01:14.06,0:01:15.46,Default,Toko,0,0,0,,No, nothing.
 Dialogue: 0,0:01:15.46,0:01:19.48,Default,Lain,0,0,0,,You’re busy with miscellaneous tasks and can’t do your own research. Does that bother you?
-Dialogue: 0,0:01:19.48,0:01:20.93,Default,Toko,0,0,0,,How do you know about… ?
+Dialogue: 0,0:01:19.48,0:01:20.93,Default,Toko,0,0,0,,How do you know about... ?
 Dialogue: 0,0:01:20.93,0:01:22.97,Default,Lain,0,0,0,,I found the homepage for this research center.
 Dialogue: 0,0:01:23.00,0:01:29.13,Default,Lain,0,0,0,,I saw the list of researchers and published dissertations, but I couldn't find you.
 Dialogue: 0,0:01:29.13,0:01:34.51,Default,Toko,0,0,0,,That’s right. I haven’t published any dissertations since I came here. But I mean to very soon.
@@ -56,7 +56,7 @@ Dialogue: 0,0:01:57.86,0:01:58.86,Default,Toko,0,0,0,,Lain.
 Dialogue: 0,0:01:59.66,0:02:04.13,Default,Toko,0,0,0,,You’re like a sister to me.
 Dialogue: 0,0:02:04.13,0:02:06.91,Default,Toko,0,0,0,,I’m the one who said that we could just talk.
 Dialogue: 0,0:02:06.91,0:02:09.08,Default,Toko,0,0,0,,I don’t think of you as a nuisance.
-Dialogue: 0,0:02:09.08,0:02:09.75,Default,Toko,0,0,0,,And…
+Dialogue: 0,0:02:09.08,0:02:09.75,Default,Toko,0,0,0,,And...
 Dialogue: 0,0:02:09.75,0:02:15.55,Default,Lain,0,0,0,,There’s nothing for you to worry about, Toko-san. It was a suicide.
 Dialogue: 0,0:02:15.55,0:02:17.55,Default,Toko,0,0,0,,How do you know about that?
 Dialogue: 0,0:02:17.55,0:02:22.13,Default,Lain,0,0,0,,I read it in the paper. It was on the bulletin board here, too.
@@ -65,5 +65,5 @@ Dialogue: 0,0:02:26.20,0:02:28.60,Default,Lain,0,0,0,,What kind of research do y
 Dialogue: 0,0:02:30.15,0:02:38.77,Default,Toko,0,0,0,,As I said before, I’m trying to develop a new treatment system using my background as a counselor and psychiatrist.
 Dialogue: 0,0:02:39.55,0:02:42.97,Default,Toko,0,0,0,,But it looks like I’m failing as a counselor and a psychiatrist right now.
 Dialogue: 0,0:02:43.18,0:02:44.35,Default,Lain,0,0,0,,Why?
-Dialogue: 0,0:02:45.02,0:02:52.08,Default,Toko,0,0,0,,I think I’m becoming mentally unstable, now. Just a few moments ago, I…I’m sorry.
-Dialogue: 0,0:02:52.42,0:02:55.60,Default,Lain,0,0,0,,Toko-san… are you ok?
+Dialogue: 0,0:02:45.02,0:02:52.08,Default,Toko,0,0,0,,I think I’m becoming mentally unstable, now. Just a few moments ago, I...I’m sorry.
+Dialogue: 0,0:02:52.42,0:02:55.60,Default,Lain,0,0,0,,Toko-san... are you ok?

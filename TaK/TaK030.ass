@@ -17,5 +17,5 @@ Style: Default,Arial,14,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
-Dialogue: 0,0:00:00.00,0:00:02.15,Default,Lain,0,0,0,,Tell me if …you like me.
+Dialogue: 0,0:00:00.00,0:00:02.15,Default,Lain,0,0,0,,Tell me if ...you like me.
 Dialogue: 0,0:00:02.15,0:00:03.59,Default,Lain,0,0,0,,I like you.

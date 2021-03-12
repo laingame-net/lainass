@@ -18,7 +18,7 @@ Style: Default,Arial,14,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
 Dialogue: 0,0:00:00.11,0:00:03.71,Default,Lain,0,0,0,,Maybe Toko-san doesn’t understand me.
-Dialogue: 0,0:00:04.24,0:00:10.44,Default,Lain,0,0,0,,She asks, “Are you really Lain?” She just tilts her head when I bring up my medical condition.
+Dialogue: 0,0:00:04.24,0:00:10.44,Default,Lain,0,0,0,,She asks, "Are you really Lain?" She just tilts her head when I bring up my medical condition.
 Dialogue: 0,0:00:11.08,0:00:13.36,Default,Lain,0,0,0,,I don’t know why I’m going to see her.
 Dialogue: 0,0:00:13.95,0:00:16.08,Default,Lain,0,0,0,,She seems frightened of me.
 Dialogue: 0,0:00:16.41,0:00:20.74,Default,Lain,0,0,0,,Toko-san, it seems that you are beginning to not understand me.
