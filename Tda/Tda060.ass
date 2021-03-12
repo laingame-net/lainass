@@ -9,7 +9,7 @@ YCbCr Matrix: None
 
 [Aegisub Project Garbage]
 Audio File: Tda060.mp4
-Active Line: 4
+Active Line: 5
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -20,9 +20,9 @@ Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
 Dialogue: 0,0:00:00.33,0:00:02.85,Default,Toko,0,0,0,,This is a nightmare.
 Dialogue: 0,0:00:03.90,0:00:06.64,Default,Toko,0,0,0,,It must be a bad dream.
 Dialogue: 0,0:00:07.98,0:00:09.83,Default,Toko,0,0,0,,Takeshi-san is getting married?
-Dialogue: 0,0:00:11.96,0:00:16.60,Default,Toko,0,0,0,,It’s just more gossip by those jerks in the lab.
+Dialogue: 0,0:00:11.96,0:00:16.60,Default,Toko,0,0,0,,It’s just more gossip by those jerks in the lab who don't have anything better to do.
 Dialogue: 0,0:00:17.16,0:00:19.76,Default,Toko,0,0,0,,Takeshi-san was going to marry me.
-Dialogue: 0,0:00:23.49,0:00:27.43,Default,Toko,0,0,0,,But…that’s just something I believed on my own.
+Dialogue: 0,0:00:23.49,0:00:27.43,Default,Toko,0,0,0,,But… that’s just something I believed on my own.
 Dialogue: 0,0:00:28.85,0:00:30.86,Default,Toko,0,0,0,,I know that we never made any promises.
 Dialogue: 0,0:00:31.16,0:00:32.57,Default,Toko,0,0,0,,But this is horrible.
 Dialogue: 0,0:00:34.07,0:00:39.01,Default,Toko,0,0,0,,Why didn’t Takeshi-san talk to me first?
