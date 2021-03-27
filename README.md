@@ -17,6 +17,8 @@ If you are not comfortable to using crowdin, you can always post them in the [di
 All files are currently done in english. The [spreadsheet](https://docs.google.com/spreadsheets/d/1VVe7hY-OlCGjOQb25DTuUbZo9QGbod6fFKrCyFWOdLE) is still avaiable to view.
 
 ## More info
+#### .vtt directory
+Those are stored in a seperate repo at [lelenium/lainvtt](https://github.com/lelenium/lainvtt)
 #### Why are some numbers missing?
 Not all entries have a spoken word in it.
 #### Where are the videos?
