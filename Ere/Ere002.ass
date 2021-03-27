@@ -9,7 +9,6 @@ YCbCr Matrix: None
 
 [Aegisub Project Garbage]
 Audio File: Ere002.mp4
-Scroll Position: 4
 Active Line: 14
 
 [V4+ Styles]
@@ -32,4 +31,4 @@ Dialogue: 0,0:00:42.46,0:00:48.12,Default,Kyoko,0,0,0,,Recently? I seem to remem
 Dialogue: 0,0:00:48.12,0:00:49.46,Default,Toko,0,0,0,,Can you remember?
 Dialogue: 0,0:00:49.46,0:00:54.72,Default,Kyoko,0,0,0,,How weird. I usually have a good memory.
 Dialogue: 0,0:00:54.72,0:00:57.40,Default,Toko,0,0,0,,Do you remember talking about shopping or boys?
-Dialogue: 0,0:00:00.00,0:00:00.00,Default,Kyoko,0,0,0,,No. I don’t think we talked about that.
+Dialogue: 0,0:00:57.40,0:01:01.82,Default,Kyoko,0,0,0,,No. I don’t think we talked about that.
