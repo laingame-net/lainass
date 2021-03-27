@@ -9,8 +9,8 @@ YCbCr Matrix: None
 
 [Aegisub Project Garbage]
 Audio File: Cou007.mp4
-Scroll Position: 6
-Active Line: 10
+Scroll Position: 34
+Active Line: 37
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -54,7 +54,7 @@ Dialogue: 0,0:01:41.40,0:01:42.77,Default,Toko,0,0,0,,Both frontwards and backwa
 Dialogue: 0,0:01:42.93,0:01:44.04,Default,Lain,0,0,0,,Yes, both.
 Dialogue: 0,0:01:44.81,0:01:47.34,Default,Toko,0,0,0,,What don’t you like?
 Dialogue: 0,0:01:49.89,0:01:53.20,Default,Toko,0,0,0,,You don’t have to answer if you don’t want to.
-Dialogue: 0,0:00:00.00,0:00:00.00,Default,Toko,0,0,0,,But, what kind of study do you like?
+Dialogue: 0,0:01:53.82,0:01:56.22,Default,Toko,0,0,0,,But, what kind of study do you like?
 Dialogue: 0,0:01:57.98,0:01:59.13,Default,Toko,0,0,0,,I'm sorry.
 Dialogue: 0,0:01:59.13,0:02:00.01,Default,Toko,0,0,0,,Are you tired?
 Dialogue: 0,0:02:00.86,0:02:04.06,Default,Toko,0,0,0,,Why don't we end early today?
