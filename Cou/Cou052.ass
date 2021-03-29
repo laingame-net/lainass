@@ -17,7 +17,7 @@ Style: Default,Arial,14,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
-Dialogue: 0,0:00:00.00,0:00:02.24,Default,Lain,0,0,0,,Are you ok, Toko-san.
+Dialogue: 0,0:00:00.00,0:00:02.24,Default,Lain,0,0,0,,Are you okay, Toko-san.
 Dialogue: 0,0:00:03.07,0:00:09.20,Default,Toko,0,0,0,,Yes. I’m hanging in there. Sometimes I don’t feel so good.
 Dialogue: 0,0:00:09.69,0:00:14.28,Default,Lain,0,0,0,,You think too much, Toko-san. You pay too much attention to what’s going on around you.
 Dialogue: 0,0:00:15.10,0:00:19.90,Default,Toko,0,0,0,,I have things to think about. Work. Romance.

@@ -18,7 +18,7 @@ Style: Default,Arial,14,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
 Dialogue: 0,0:00:00.85,0:00:02.61,Default,Toko,0,0,0,,How are you feeling, Lain?
-Dialogue: 0,0:00:03.46,0:00:07.72,Default,Lain,0,0,0,,I’m doing ok. How about you, Toko-san?
+Dialogue: 0,0:00:03.46,0:00:07.72,Default,Lain,0,0,0,,I’m doing okay. How about you, Toko-san?
 Dialogue: 0,0:00:07.88,0:00:14.88,Default,Toko,0,0,0,,Pretty much as always. I could use a little more time to calm down and think things over, though.
 Dialogue: 0,0:00:15.69,0:00:16.80,Default,Lain,0,0,0,,You’re very busy?
 Dialogue: 0,0:00:16.96,0:00:24.69,Default,Toko,0,0,0,,Yes... Ha, ha. Now our roles are reversed. I feel like you are counseling me.
@@ -56,4 +56,4 @@ Dialogue: 0,0:02:20.68,0:02:25.01,Default,Toko,0,0,0,,I thought that someday I w
 Dialogue: 0,0:02:25.74,0:02:31.32,Default,Toko,0,0,0,,I also thought things like, if there was a big earthquake, everyone would die, but I would be the only survivor.
 Dialogue: 0,0:02:32.14,0:02:35.02,Default,Toko,0,0,0,,I thought that I was someone special; someone "chosen." In another words, I believed in a "me" that could not be.
 Dialogue: 0,0:02:35.18,0:02:36.48,Default,Toko,0,0,0,,It’s funny, isn’t it?
-Dialogue: 0,0:02:36.97,0:02:41.56,Default,Lain,0,0,0,,I don’t believe that I’m anyone chosen. I’m ok with being ordinary.
+Dialogue: 0,0:02:36.97,0:02:41.56,Default,Lain,0,0,0,,I don’t believe that I’m anyone chosen. I’m okay with being ordinary.

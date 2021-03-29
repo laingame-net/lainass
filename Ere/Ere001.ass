@@ -19,7 +19,7 @@ Style: Default,Arial,14,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
 Dialogue: 0,0:00:03.16,0:00:07.08,Default,Toko,0,0,0,,I’m so sorry to be late when I’m the person who asked to meet.
-Dialogue: 0,0:00:07.08,0:00:10.28,Default,Kyoko,0,0,0,,It’s ok. What do you want to talk about?
+Dialogue: 0,0:00:07.08,0:00:10.28,Default,Kyoko,0,0,0,,It’s okay. What do you want to talk about?
 Dialogue: 0,0:00:10.28,0:00:16.78,Default,Toko,0,0,0,,Um, I’ll have Earl Grey without milk. Would you like more coffee, Kyoko-chan?
 Dialogue: 0,0:00:16.78,0:00:18.78,Default,Kyoko,0,0,0,,Sure.
 Dialogue: 0,0:00:18.78,0:00:20.46,Default,Kyoko,0,0,0,,So you’re a private tutor.
@@ -27,7 +27,7 @@ Dialogue: 0,0:00:20.46,0:00:22.12,Default,Kyoko,0,0,0,,People like you are rare 
 Dialogue: 0,0:00:22.12,0:00:24.12,Default,Kyoko,0,0,0,,You get this involved about your students?
 Dialogue: 0,0:00:24.12,0:00:32.62,Default,Toko,0,0,0,,I’ve been a bit distracted and out of focus lately, and I was concerned that that might have been rubbing off on Lain and that I haven’t been teaching her properly.
 Dialogue: 0,0:00:32.62,0:00:36.10,Default,Toko,0,0,0,,Either that, or maybe things haven’t been going well for her at school.
-Dialogue: 0,0:00:36.10,0:00:39.06,Default,Kyoko,0,0,0,,I think she’s doing ok.
+Dialogue: 0,0:00:36.10,0:00:39.06,Default,Kyoko,0,0,0,,I think she’s doing okay.
 Dialogue: 0,0:00:39.08,0:00:44.88,Default,Toko,0,0,0,,From your point of view, is she doing well in school?
 Dialogue: 0,0:00:44.88,0:00:46.46,Default,Kyoko,0,0,0,,I don't really know.
 Dialogue: 0,0:00:46.46,0:00:51.84,Default,Kyoko,0,0,0,,We used to be friends, but since we entered junior high school, we haven’t talked to each other that much.
