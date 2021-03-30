@@ -17,10 +17,10 @@ Style: Default,Arial,14,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
-Dialogue: 0,0:00:01.44,0:00:04.30,Default,Toko,0,0,0,,She seems to be cautious about with mother.
-Dialogue: 0,0:00:04.30,0:00:07.22,Default,Toko,0,0,0,,And as far as she’s concerned, her hallucinations are real.
-Dialogue: 0,0:00:07.22,0:00:18.98,Default,Toko,0,0,0,,She may be mistrustful of her mother because her mother does not accept that her hallucinations are ‘real.’ At this point, I don’t know if the hallucinations are due to some warped sense of perception, or if they are entirely imaginary.
-Dialogue: 0,0:00:18.98,0:00:21.46,Default,Toko,0,0,0,,There are times when it is difficult to tell.
-Dialogue: 0,0:00:23.12,0:00:33.64,Default,Toko,0,0,0,,Concerning the ‘vision’ the client saw floating in mid-air, they were most likely imaginary, opposed to being shapes of monsters formed by the shadows on the walls and curtains at night, etc.
-Dialogue: 0,0:00:33.64,0:00:38.34,Default,Toko,0,0,0,,Could it be that she has developed a system of sensing without perceiving?
-Dialogue: 0,0:00:39.84,0:00:42.62,Default,Toko,0,0,0,,I would like permission to examine her cerebrospinal fluid.
+Dialogue: 0,0:00:01.44,0:00:04.30,Default,Touko,0,0,0,,She seems to be cautious about with mother.
+Dialogue: 0,0:00:04.30,0:00:07.22,Default,Touko,0,0,0,,And as far as she’s concerned, her hallucinations are real.
+Dialogue: 0,0:00:07.22,0:00:18.98,Default,Touko,0,0,0,,She may be mistrustful of her mother because her mother does not accept that her hallucinations are ‘real.’ At this point, I don’t know if the hallucinations are due to some warped sense of perception, or if they are entirely imaginary.
+Dialogue: 0,0:00:18.98,0:00:21.46,Default,Touko,0,0,0,,There are times when it is difficult to tell.
+Dialogue: 0,0:00:23.12,0:00:33.64,Default,Touko,0,0,0,,Concerning the ‘vision’ the client saw floating in mid-air, they were most likely imaginary, opposed to being shapes of monsters formed by the shadows on the walls and curtains at night, etc.
+Dialogue: 0,0:00:33.64,0:00:38.34,Default,Touko,0,0,0,,Could it be that she has developed a system of sensing without perceiving?
+Dialogue: 0,0:00:39.84,0:00:42.62,Default,Touko,0,0,0,,I would like permission to examine her cerebrospinal fluid.

@@ -17,15 +17,15 @@ Style: Default,Arial,14,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
-Dialogue: 0,0:00:00.00,0:00:03.60,Default,Toko,0,0,0,,When this summer vacation is over I’ll graduate.
-Dialogue: 0,0:00:04.51,0:00:06.65,Default,Toko,0,0,0,,I’m a bit happy and a bit sad.
-Dialogue: 0,0:00:07.60,0:00:11.37,Default,Toko,0,0,0,,Takeshi-san will be returning to Japan one step ahead of me.
-Dialogue: 0,0:00:12.30,0:00:14.98,Default,Toko,0,0,0,,I guess that can’t be helped.
-Dialogue: 0,0:00:16.01,0:00:17.50,Default,Toko,0,0,0,,He’s a brilliant guy.
-Dialogue: 0,0:00:17.50,0:00:22.55,Default,Toko,0,0,0,,The people at the sponsoring research center wants to give him a new project as soon as possible.
-Dialogue: 0,0:00:23.48,0:00:24.22,Default,Toko,0,0,0,,Ahh, shucks!
-Dialogue: 0,0:00:24.69,0:00:27.61,Default,Toko,0,0,0,,I’m just jealous of him.
-Dialogue: 0,0:00:28.60,0:00:31.48,Default,Toko,0,0,0,,I would love to start my own research soon.
-Dialogue: 0,0:00:32.29,0:00:32.74,Default,Toko,0,0,0,,Mmm.
-Dialogue: 0,0:00:32.74,0:00:35.65,Default,Toko,0,0,0,,But I have to graduate first.
-Dialogue: 0,0:00:36.76,0:00:40.88,Default,Toko,0,0,0,,It’s too bad though, because I wanted to be with Takeshi-san until the graduation ceremony.
+Dialogue: 0,0:00:00.00,0:00:03.60,Default,Touko,0,0,0,,When this summer vacation is over I’ll graduate.
+Dialogue: 0,0:00:04.51,0:00:06.65,Default,Touko,0,0,0,,I’m a bit happy and a bit sad.
+Dialogue: 0,0:00:07.60,0:00:11.37,Default,Touko,0,0,0,,Takeshi-san will be returning to Japan one step ahead of me.
+Dialogue: 0,0:00:12.30,0:00:14.98,Default,Touko,0,0,0,,I guess that can’t be helped.
+Dialogue: 0,0:00:16.01,0:00:17.50,Default,Touko,0,0,0,,He’s a brilliant guy.
+Dialogue: 0,0:00:17.50,0:00:22.55,Default,Touko,0,0,0,,The people at the sponsoring research center wants to give him a new project as soon as possible.
+Dialogue: 0,0:00:23.48,0:00:24.22,Default,Touko,0,0,0,,Ahh, shucks!
+Dialogue: 0,0:00:24.69,0:00:27.61,Default,Touko,0,0,0,,I’m just jealous of him.
+Dialogue: 0,0:00:28.60,0:00:31.48,Default,Touko,0,0,0,,I would love to start my own research soon.
+Dialogue: 0,0:00:32.29,0:00:32.74,Default,Touko,0,0,0,,Mmm.
+Dialogue: 0,0:00:32.74,0:00:35.65,Default,Touko,0,0,0,,But I have to graduate first.
+Dialogue: 0,0:00:36.76,0:00:40.88,Default,Touko,0,0,0,,It’s too bad though, because I wanted to be with Takeshi-san until the graduation ceremony.

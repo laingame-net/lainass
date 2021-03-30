@@ -17,12 +17,12 @@ Style: Default,Arial,14,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
-Dialogue: 0,0:00:00.23,0:00:02.16,Default,Toko,0,0,0,,Professor Takashima died.
-Dialogue: 0,0:00:03.02,0:00:04.04,Default,Toko,0,0,0,,He committed suicide.
-Dialogue: 0,0:00:05.93,0:00:12.10,Default,Toko,0,0,0,,I can’t honestly say that I’m saddened, but I’m not happy to see someone die.
-Dialogue: 0,0:00:13.52,0:00:19.58,Default,Toko,0,0,0,,The police and reporters came and asked a lot of questions, but no one knows why he took his life.
-Dialogue: 0,0:00:21.93,0:00:23.15,Default,Toko,0,0,0,,Ahh!
-Dialogue: 0,0:00:23.44,0:00:25.84,Default,Toko,0,0,0,,It’ll be harder at nights now.
-Dialogue: 0,0:00:26.76,0:00:31.66,Default,Toko,0,0,0,,I don't know if he did that out of spite, but I can't believe he hanged himself in the lab, of all places.
-Dialogue: 0,0:00:32.60,0:00:37.77,Default,Toko,0,0,0,,Still, I have one less reason for not wanting to work in this lab.
-Dialogue: 0,0:00:38.76,0:00:43.96,Default,Toko,0,0,0,,It may be imprudent for me to say this, but things will be easier for me now.
+Dialogue: 0,0:00:00.23,0:00:02.16,Default,Touko,0,0,0,,Professor Takashima died.
+Dialogue: 0,0:00:03.02,0:00:04.04,Default,Touko,0,0,0,,He committed suicide.
+Dialogue: 0,0:00:05.93,0:00:12.10,Default,Touko,0,0,0,,I can’t honestly say that I’m saddened, but I’m not happy to see someone die.
+Dialogue: 0,0:00:13.52,0:00:19.58,Default,Touko,0,0,0,,The police and reporters came and asked a lot of questions, but no one knows why he took his life.
+Dialogue: 0,0:00:21.93,0:00:23.15,Default,Touko,0,0,0,,Ahh!
+Dialogue: 0,0:00:23.44,0:00:25.84,Default,Touko,0,0,0,,It’ll be harder at nights now.
+Dialogue: 0,0:00:26.76,0:00:31.66,Default,Touko,0,0,0,,I don't know if he did that out of spite, but I can't believe he hanged himself in the lab, of all places.
+Dialogue: 0,0:00:32.60,0:00:37.77,Default,Touko,0,0,0,,Still, I have one less reason for not wanting to work in this lab.
+Dialogue: 0,0:00:38.76,0:00:43.96,Default,Touko,0,0,0,,It may be imprudent for me to say this, but things will be easier for me now.

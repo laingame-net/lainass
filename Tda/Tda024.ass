@@ -17,17 +17,17 @@ Style: Default,Arial,14,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
-Dialogue: 0,0:00:00.24,0:00:03.18,Default,Toko,0,0,0,,Today I met my first client.
-Dialogue: 0,0:00:04.44,0:00:07.17,Default,Toko,0,0,0,,She is a 12 year old girl named Lain.
-Dialogue: 0,0:00:08.91,0:00:17.45,Default,Toko,0,0,0,,I was uneasy at first because I didn’t understand why Professor Takashima assigned me someone so young.
-Dialogue: 0,0:00:18.30,0:00:21.09,Default,Toko,0,0,0,,But as soon as I saw Lain’s face, I felt at ease.
-Dialogue: 0,0:00:22.85,0:00:25.40,Default,Toko,0,0,0,,I suppose it was because she was cute.
-Dialogue: 0,0:00:26.44,0:00:27.40,Default,Toko,0,0,0,,Hmm.
-Dialogue: 0,0:00:28.59,0:00:31.06,Default,Toko,0,0,0,,I had an unusual feeling around her.
-Dialogue: 0,0:00:32.93,0:00:38.88,Default,Toko,0,0,0,,Anyhow, even if she is very young, she is my client.
-Dialogue: 0,0:00:40.12,0:00:44.35,Default,Toko,0,0,0,,It seems that she is troubled by auditory and visual hallucinations and feels psychologically unstable.
-Dialogue: 0,0:00:45.82,0:00:47.86,Default,Toko,0,0,0,,Could she be having trouble at home?
-Dialogue: 0,0:00:48.78,0:00:52.30,Default,Toko,0,0,0,,Could she be forming an image of herself from experiences in early childhood?
-Dialogue: 0,0:00:54.20,0:00:57.79,Default,Toko,0,0,0,,I hope I can help her.
-Dialogue: 0,0:00:59.29,0:01:01.77,Default,Toko,0,0,0,,I hope she will open up to me.
-Dialogue: 0,0:01:02.53,0:01:03.85,Default,Toko,0,0,0,,I’ll try my best.
+Dialogue: 0,0:00:00.24,0:00:03.18,Default,Touko,0,0,0,,Today I met my first client.
+Dialogue: 0,0:00:04.44,0:00:07.17,Default,Touko,0,0,0,,She is a 12 year old girl named Lain.
+Dialogue: 0,0:00:08.91,0:00:17.45,Default,Touko,0,0,0,,I was uneasy at first because I didn’t understand why Professor Takashima assigned me someone so young.
+Dialogue: 0,0:00:18.30,0:00:21.09,Default,Touko,0,0,0,,But as soon as I saw Lain’s face, I felt at ease.
+Dialogue: 0,0:00:22.85,0:00:25.40,Default,Touko,0,0,0,,I suppose it was because she was cute.
+Dialogue: 0,0:00:26.44,0:00:27.40,Default,Touko,0,0,0,,Hmm.
+Dialogue: 0,0:00:28.59,0:00:31.06,Default,Touko,0,0,0,,I had an unusual feeling around her.
+Dialogue: 0,0:00:32.93,0:00:38.88,Default,Touko,0,0,0,,Anyhow, even if she is very young, she is my client.
+Dialogue: 0,0:00:40.12,0:00:44.35,Default,Touko,0,0,0,,It seems that she is troubled by auditory and visual hallucinations and feels psychologically unstable.
+Dialogue: 0,0:00:45.82,0:00:47.86,Default,Touko,0,0,0,,Could she be having trouble at home?
+Dialogue: 0,0:00:48.78,0:00:52.30,Default,Touko,0,0,0,,Could she be forming an image of herself from experiences in early childhood?
+Dialogue: 0,0:00:54.20,0:00:57.79,Default,Touko,0,0,0,,I hope I can help her.
+Dialogue: 0,0:00:59.29,0:01:01.77,Default,Touko,0,0,0,,I hope she will open up to me.
+Dialogue: 0,0:01:02.53,0:01:03.85,Default,Touko,0,0,0,,I’ll try my best.

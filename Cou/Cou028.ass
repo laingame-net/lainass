@@ -17,26 +17,26 @@ Style: Default,Arial,14,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
-Dialogue: 0,0:00:00.44,0:00:08.19,Default,Toko,0,0,0,,You know about neurosis? Wow, Lain. You’re going to have to start counseling me.
+Dialogue: 0,0:00:00.44,0:00:08.19,Default,Touko,0,0,0,,You know about neurosis? Wow, Lain. You’re going to have to start counseling me.
 Dialogue: 0,0:00:09.08,0:00:12.02,Default,Lain,0,0,0,,I know the word, not its meaning.
-Dialogue: 0,0:00:13.03,0:00:13.95,Default,Toko,0,0,0,,What kind of image?
+Dialogue: 0,0:00:13.03,0:00:13.95,Default,Touko,0,0,0,,What kind of image?
 Dialogue: 0,0:00:14.90,0:00:17.95,Default,Lain,0,0,0,,The mind changes and becomes distorted?
-Dialogue: 0,0:00:18.64,0:00:20.78,Default,Toko,0,0,0,,Yes. You’ve got the general idea.
+Dialogue: 0,0:00:18.64,0:00:20.78,Default,Touko,0,0,0,,Yes. You’ve got the general idea.
 Dialogue: 0,0:00:21.58,0:00:24.26,Default,Lain,0,0,0,,That’s awful. You won’t teach me anymore?
-Dialogue: 0,0:00:24.48,0:00:24.96,Default,Toko,0,0,0,,No.
-Dialogue: 0,0:00:24.96,0:00:27.72,Default,Toko,0,0,0,,I’m really telling you that you got the general idea.
-Dialogue: 0,0:00:28.83,0:00:36.31,Default,Toko,0,0,0,,Neurosis is a state in which there is nothing wrong with a person physically, yet the person has irrational fears and perceives threats.
-Dialogue: 0,0:00:36.68,0:00:39.27,Default,Toko,0,0,0,,This places a lot of stress on the person and makes her feel sick.
+Dialogue: 0,0:00:24.48,0:00:24.96,Default,Touko,0,0,0,,No.
+Dialogue: 0,0:00:24.96,0:00:27.72,Default,Touko,0,0,0,,I’m really telling you that you got the general idea.
+Dialogue: 0,0:00:28.83,0:00:36.31,Default,Touko,0,0,0,,Neurosis is a state in which there is nothing wrong with a person physically, yet the person has irrational fears and perceives threats.
+Dialogue: 0,0:00:36.68,0:00:39.27,Default,Touko,0,0,0,,This places a lot of stress on the person and makes her feel sick.
 Dialogue: 0,0:00:40.56,0:00:42.27,Default,Lain,0,0,0,,It’s only inside of their heads?
-Dialogue: 0,0:00:42.66,0:00:45.32,Default,Toko,0,0,0,,We used to think so.
-Dialogue: 0,0:00:46.04,0:00:51.76,Default,Toko,0,0,0,,But after a lot of research, we think that an imbalance of the autonomic nerves in the brain is related to it.
-Dialogue: 0,0:00:52.44,0:00:55.91,Default,Toko,0,0,0,,What I mean is, something is wrong in the body, too.
-Dialogue: 0,0:00:57.43,0:01:01.67,Default,Toko,0,0,0,,We used to categorize physical symptoms as psychosomatic.
-Dialogue: 0,0:01:02.31,0:01:08.16,Default,Toko,0,0,0,,But we’ve been finding more and more that conditions we thought were only of the mind involve the body itself.
+Dialogue: 0,0:00:42.66,0:00:45.32,Default,Touko,0,0,0,,We used to think so.
+Dialogue: 0,0:00:46.04,0:00:51.76,Default,Touko,0,0,0,,But after a lot of research, we think that an imbalance of the autonomic nerves in the brain is related to it.
+Dialogue: 0,0:00:52.44,0:00:55.91,Default,Touko,0,0,0,,What I mean is, something is wrong in the body, too.
+Dialogue: 0,0:00:57.43,0:01:01.67,Default,Touko,0,0,0,,We used to categorize physical symptoms as psychosomatic.
+Dialogue: 0,0:01:02.31,0:01:08.16,Default,Touko,0,0,0,,But we’ve been finding more and more that conditions we thought were only of the mind involve the body itself.
 Dialogue: 0,0:01:08.94,0:01:10.36,Default,Lain,0,0,0,,Psychosomatic?
-Dialogue: 0,0:01:11.18,0:01:14.06,Default,Toko,0,0,0,,Oh, Lain, if you ask so many questions, your head is going to explode!
-Dialogue: 0,0:01:15.06,0:01:19.95,Default,Toko,0,0,0,,You’ve heard about people who lose a lot of weight because of stress, or go bald?
-Dialogue: 0,0:01:20.39,0:01:21.04,Default,Toko,0,0,0,,That’s psychosomatic.
-Dialogue: 0,0:01:22.20,0:01:24.18,Default,Toko,0,0,0,,Lain, you don’t, by any chance...
+Dialogue: 0,0:01:11.18,0:01:14.06,Default,Touko,0,0,0,,Oh, Lain, if you ask so many questions, your head is going to explode!
+Dialogue: 0,0:01:15.06,0:01:19.95,Default,Touko,0,0,0,,You’ve heard about people who lose a lot of weight because of stress, or go bald?
+Dialogue: 0,0:01:20.39,0:01:21.04,Default,Touko,0,0,0,,That’s psychosomatic.
+Dialogue: 0,0:01:22.20,0:01:24.18,Default,Touko,0,0,0,,Lain, you don’t, by any chance...
 Dialogue: 0,0:01:24.46,0:01:25.52,Default,Lain,0,0,0,,No, I don’t have that kind of problem.
-Dialogue: 0,0:01:28.43,0:01:30.02,Default,Toko,0,0,0,,Oh, I’m relieved. That was hasty of me!
+Dialogue: 0,0:01:28.43,0:01:30.02,Default,Touko,0,0,0,,Oh, I’m relieved. That was hasty of me!

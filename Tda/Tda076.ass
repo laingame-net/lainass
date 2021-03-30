@@ -17,12 +17,12 @@ Style: Default,Arial,14,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
-Dialogue: 0,0:00:00.00,0:00:06.62,Default,Toko,0,0,0,,When I was organizing data again today, I had a sensation like the one I experienced while working with RML.
-Dialogue: 0,0:00:07.28,0:00:11.86,Default,Toko,0,0,0,,I experienced bright white flashes of light pulsing through my head.
-Dialogue: 0,0:00:12.46,0:00:15.11,Default,Toko,0,0,0,,I thought it was dangerous.
-Dialogue: 0,0:00:16.71,0:00:19.37,Default,Toko,0,0,0,,It wasn’t as if I used the equipment incorrectly.
-Dialogue: 0,0:00:20.75,0:00:23.23,Default,Toko,0,0,0,,I might have been mistaken to use it in the first place.
-Dialogue: 0,0:00:24.44,0:00:26.42,Default,Toko,0,0,0,,Was it manufactured improperly?
-Dialogue: 0,0:00:27.53,0:00:28.53,Default,Toko,0,0,0,,This is dangerous.
-Dialogue: 0,0:00:28.88,0:00:30.57,Default,Toko,0,0,0,,I have to tell Yoshida-kun.
-Dialogue: 0,0:00:31.33,0:00:34.04,Default,Toko,0,0,0,,Selling this machine is dangerous.
+Dialogue: 0,0:00:00.00,0:00:06.62,Default,Touko,0,0,0,,When I was organizing data again today, I had a sensation like the one I experienced while working with RML.
+Dialogue: 0,0:00:07.28,0:00:11.86,Default,Touko,0,0,0,,I experienced bright white flashes of light pulsing through my head.
+Dialogue: 0,0:00:12.46,0:00:15.11,Default,Touko,0,0,0,,I thought it was dangerous.
+Dialogue: 0,0:00:16.71,0:00:19.37,Default,Touko,0,0,0,,It wasn’t as if I used the equipment incorrectly.
+Dialogue: 0,0:00:20.75,0:00:23.23,Default,Touko,0,0,0,,I might have been mistaken to use it in the first place.
+Dialogue: 0,0:00:24.44,0:00:26.42,Default,Touko,0,0,0,,Was it manufactured improperly?
+Dialogue: 0,0:00:27.53,0:00:28.53,Default,Touko,0,0,0,,This is dangerous.
+Dialogue: 0,0:00:28.88,0:00:30.57,Default,Touko,0,0,0,,I have to tell Yoshida-kun.
+Dialogue: 0,0:00:31.33,0:00:34.04,Default,Touko,0,0,0,,Selling this machine is dangerous.

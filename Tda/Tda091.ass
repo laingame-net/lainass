@@ -18,16 +18,16 @@ Style: Default,Arial,14,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
-Dialogue: 0,0:00:00.18,0:00:02.17,Default,Toko,0,0,0,,I accessed your data, Lain.
-Dialogue: 0,0:00:02.93,0:00:04.72,Default,Toko,0,0,0,,You cracked it yourself, didn’t you?
-Dialogue: 0,0:00:05.66,0:00:09.18,Default,Toko,0,0,0,,You’ve quickly gained access to data that I didn’t obtain myself.
-Dialogue: 0,0:00:09.96,0:00:12.04,Default,Toko,0,0,0,,You’re the only person who could do that.
-Dialogue: 0,0:00:13.40,0:00:14.73,Default,Toko,0,0,0,,What is this?
-Dialogue: 0,0:00:15.30,0:00:16.85,Default,Toko,0,0,0,,What are you?
-Dialogue: 0,0:00:17.36,0:00:18.41,Default,Toko,0,0,0,,Are you listening?
-Dialogue: 0,0:00:18.69,0:00:19.92,Default,Toko,0,0,0,,You can hear me, can’t you?
-Dialogue: 0,0:00:20.52,0:00:22.17,Default,Toko,0,0,0,,Why won’t you answer me?
-Dialogue: 0,0:00:22.50,0:00:24.85,Default,Toko,0,0,0,,Is it that you no longer have use for me?
-Dialogue: 0,0:00:25.21,0:00:26.20,Default,Toko,0,0,0,,That’s not true, is it?
-Dialogue: 0,0:00:26.37,0:00:28.60,Default,Toko,0,0,0,,You’re teasing me, aren’t you?
-Dialogue: 0,0:00:28.60,0:00:29.24,Default,Toko,0,0,0,,Or are you...
+Dialogue: 0,0:00:00.18,0:00:02.17,Default,Touko,0,0,0,,I accessed your data, Lain.
+Dialogue: 0,0:00:02.93,0:00:04.72,Default,Touko,0,0,0,,You cracked it yourself, didn’t you?
+Dialogue: 0,0:00:05.66,0:00:09.18,Default,Touko,0,0,0,,You’ve quickly gained access to data that I didn’t obtain myself.
+Dialogue: 0,0:00:09.96,0:00:12.04,Default,Touko,0,0,0,,You’re the only person who could do that.
+Dialogue: 0,0:00:13.40,0:00:14.73,Default,Touko,0,0,0,,What is this?
+Dialogue: 0,0:00:15.30,0:00:16.85,Default,Touko,0,0,0,,What are you?
+Dialogue: 0,0:00:17.36,0:00:18.41,Default,Touko,0,0,0,,Are you listening?
+Dialogue: 0,0:00:18.69,0:00:19.92,Default,Touko,0,0,0,,You can hear me, can’t you?
+Dialogue: 0,0:00:20.52,0:00:22.17,Default,Touko,0,0,0,,Why won’t you answer me?
+Dialogue: 0,0:00:22.50,0:00:24.85,Default,Touko,0,0,0,,Is it that you no longer have use for me?
+Dialogue: 0,0:00:25.21,0:00:26.20,Default,Touko,0,0,0,,That’s not true, is it?
+Dialogue: 0,0:00:26.37,0:00:28.60,Default,Touko,0,0,0,,You’re teasing me, aren’t you?
+Dialogue: 0,0:00:28.60,0:00:29.24,Default,Touko,0,0,0,,Or are you...

@@ -16,5 +16,5 @@ Style: Default,Arial,14,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
-Dialogue: 0,0:00:00.88,0:00:07.46,Default,Toko,0,0,0,,Making a hasty diagnosis is taboo, but thinking of the worst, I think I should obtain cerebrospinal fluids as soon as possible.
-Dialogue: 0,0:00:09.04,0:00:11.50,Default,Toko,0,0,0,,May I have your permission, please?
+Dialogue: 0,0:00:00.88,0:00:07.46,Default,Touko,0,0,0,,Making a hasty diagnosis is taboo, but thinking of the worst, I think I should obtain cerebrospinal fluids as soon as possible.
+Dialogue: 0,0:00:09.04,0:00:11.50,Default,Touko,0,0,0,,May I have your permission, please?

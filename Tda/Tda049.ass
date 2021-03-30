@@ -17,22 +17,22 @@ Style: Default,Arial,14,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
-Dialogue: 0,0:00:00.32,0:00:05.50,Default,Toko,0,0,0,,Lately at the lab, people seem to be looking at me more critically than before.
-Dialogue: 0,0:00:06.71,0:00:10.48,Default,Toko,0,0,0,,If someone wants to say something, let him say it.
-Dialogue: 0,0:00:11.64,0:00:14.84,Default,Toko,0,0,0,,Still, this bothers me.
-Dialogue: 0,0:00:15.78,0:00:19.15,Default,Toko,0,0,0,,When I glance at people, I can see them whispering and laughing.
-Dialogue: 0,0:00:20.32,0:00:24.00,Default,Toko,0,0,0,,I suppose its just more stupid rumors about me, but I wonder if I’m the only cheerful person working here.
-Dialogue: 0,0:00:26.40,0:00:30.50,Default,Toko,0,0,0,,I had my first date with Takeshi-san in a long time, but I was so inattentive.
-Dialogue: 0,0:00:32.00,0:00:39.66,Default,Toko,0,0,0,,It seemed like Takeshi-san had something to say, but I felt like I had a big hole in the middle of my chest.
-Dialogue: 0,0:00:41.02,0:00:42.80,Default,Toko,0,0,0,,What’s wrong, Toko?
-Dialogue: 0,0:00:43.24,0:00:44.37,Default,Toko,0,0,0,,Are you tired?
-Dialogue: 0,0:00:45.74,0:00:50.53,Default,Toko,0,0,0,,Lately, Professor Takashima has had me digging around for documents. Maybe that’s worn me out.
-Dialogue: 0,0:00:51.88,0:00:54.80,Default,Toko,0,0,0,,He can have someone else look for documents.
-Dialogue: 0,0:00:56.36,0:00:57.90,Default,Toko,0,0,0,,What can I do?
-Dialogue: 0,0:01:01.04,0:01:04.04,Default,Toko,0,0,0,,That’s how things are done in Japan.
-Dialogue: 0,0:01:05.28,0:01:07.91,Default,Toko,0,0,0,,I think I should have stayed in America.
-Dialogue: 0,0:01:09.55,0:01:13.61,Default,Toko,0,0,0,,I’ll use Yoshida-kun’s health equipment again tonight.
-Dialogue: 0,0:01:14.71,0:01:16.89,Default,Toko,0,0,0,,Sometimes it makes me sleepy.
-Dialogue: 0,0:01:16.98,0:01:18.43,Default,Toko,0,0,0,,I wonder if it really works.
-Dialogue: 0,0:01:18.81,0:01:20.91,Default,Toko,0,0,0,,I haven’t seen it advertised much.
-Dialogue: 0,0:01:21.75,0:01:24.12,Default,Toko,0,0,0,,I heard that it’s still being used on an experimental basis.
+Dialogue: 0,0:00:00.32,0:00:05.50,Default,Touko,0,0,0,,Lately at the lab, people seem to be looking at me more critically than before.
+Dialogue: 0,0:00:06.71,0:00:10.48,Default,Touko,0,0,0,,If someone wants to say something, let him say it.
+Dialogue: 0,0:00:11.64,0:00:14.84,Default,Touko,0,0,0,,Still, this bothers me.
+Dialogue: 0,0:00:15.78,0:00:19.15,Default,Touko,0,0,0,,When I glance at people, I can see them whispering and laughing.
+Dialogue: 0,0:00:20.32,0:00:24.00,Default,Touko,0,0,0,,I suppose its just more stupid rumors about me, but I wonder if I’m the only cheerful person working here.
+Dialogue: 0,0:00:26.40,0:00:30.50,Default,Touko,0,0,0,,I had my first date with Takeshi-san in a long time, but I was so inattentive.
+Dialogue: 0,0:00:32.00,0:00:39.66,Default,Touko,0,0,0,,It seemed like Takeshi-san had something to say, but I felt like I had a big hole in the middle of my chest.
+Dialogue: 0,0:00:41.02,0:00:42.80,Default,Touko,0,0,0,,What’s wrong, Toko?
+Dialogue: 0,0:00:43.24,0:00:44.37,Default,Touko,0,0,0,,Are you tired?
+Dialogue: 0,0:00:45.74,0:00:50.53,Default,Touko,0,0,0,,Lately, Professor Takashima has had me digging around for documents. Maybe that’s worn me out.
+Dialogue: 0,0:00:51.88,0:00:54.80,Default,Touko,0,0,0,,He can have someone else look for documents.
+Dialogue: 0,0:00:56.36,0:00:57.90,Default,Touko,0,0,0,,What can I do?
+Dialogue: 0,0:01:01.04,0:01:04.04,Default,Touko,0,0,0,,That’s how things are done in Japan.
+Dialogue: 0,0:01:05.28,0:01:07.91,Default,Touko,0,0,0,,I think I should have stayed in America.
+Dialogue: 0,0:01:09.55,0:01:13.61,Default,Touko,0,0,0,,I’ll use Yoshida-kun’s health equipment again tonight.
+Dialogue: 0,0:01:14.71,0:01:16.89,Default,Touko,0,0,0,,Sometimes it makes me sleepy.
+Dialogue: 0,0:01:16.98,0:01:18.43,Default,Touko,0,0,0,,I wonder if it really works.
+Dialogue: 0,0:01:18.81,0:01:20.91,Default,Touko,0,0,0,,I haven’t seen it advertised much.
+Dialogue: 0,0:01:21.75,0:01:24.12,Default,Touko,0,0,0,,I heard that it’s still being used on an experimental basis.

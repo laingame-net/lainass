@@ -18,18 +18,18 @@ Style: Default,Arial,14,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
-Dialogue: 0,0:00:01.23,0:00:05.53,Default,Toko,0,0,0,,Nice to meet you. Order whatever you want.
+Dialogue: 0,0:00:01.23,0:00:05.53,Default,Touko,0,0,0,,Nice to meet you. Order whatever you want.
 Dialogue: 0,0:00:08.15,0:00:13.46,Default,Kaori,0,0,0,,Lain doesn’t go out much, and it’s hard to tell if she’s going out with someone.
 Dialogue: 0,0:00:13.81,0:00:19.38,Default,Kaori,0,0,0,,Sometimes she helps me with my schoolwork, and I offer to take her out to have some fun to thank her, but she doesn’t come.
 Dialogue: 0,0:00:19.97,0:00:22.37,Default,Kaori,0,0,0,,A royal chocolate parfait, please.
 Dialogue: 0,0:00:23.47,0:00:25.97,Default,Kaori,0,0,0,,And who did you say you were?
-Dialogue: 0,0:00:26.07,0:00:27.17,Default,Toko,0,0,0,,I’m her tutor.
+Dialogue: 0,0:00:26.07,0:00:27.17,Default,Touko,0,0,0,,I’m her tutor.
 Dialogue: 0,0:00:27.25,0:00:29.67,Default,Kaori,0,0,0,,Oh...a tutor.
 Dialogue: 0,0:00:30.16,0:00:32.37,Default,Kaori,0,0,0,,That’s why she’s so smart.
 Dialogue: 0,0:00:34.93,0:00:36.48,Default,Kaori,0,0,0,,I’ll start on my parfait.
 Dialogue: 0,0:00:36.97,0:00:38.80,Default,Kaori,0,0,0,,I really like their parfaits here.
 Dialogue: 0,0:00:40.02,0:00:42.89,Default,Kaori,0,0,0,,But what did you want to talk about?
-Dialogue: 0,0:00:43.14,0:00:49.55,Default,Toko,0,0,0,,Well, what is she like at school? What kind of girl is she in your point of view?
+Dialogue: 0,0:00:43.14,0:00:49.55,Default,Touko,0,0,0,,Well, what is she like at school? What kind of girl is she in your point of view?
 Dialogue: 0,0:00:49.77,0:00:53.20,Default,Kaori,0,0,0,,Lain is a quiet girl.
 Dialogue: 0,0:00:53.53,0:00:57.12,Default,Kaori,0,0,0,,She doesn’t stand out too much and she doesn’t have too many friends.
 Dialogue: 0,0:00:57.41,0:00:58.74,Default,Kaori,0,0,0,,She’s smart, though.

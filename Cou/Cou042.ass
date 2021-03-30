@@ -17,27 +17,27 @@ Style: Default,Arial,14,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
-Dialogue: 0,0:00:00.00,0:00:04.07,Default,Toko,0,0,0,,Lain, I’d like for you to tell me the truth.
+Dialogue: 0,0:00:00.00,0:00:04.07,Default,Touko,0,0,0,,Lain, I’d like for you to tell me the truth.
 Dialogue: 0,0:00:04.07,0:00:05.45,Default,Lain,0,0,0,,The truth?
-Dialogue: 0,0:00:05.45,0:00:09.05,Default,Toko,0,0,0,,You don’t have any friend named Misato-chan, do you?
+Dialogue: 0,0:00:05.45,0:00:09.05,Default,Touko,0,0,0,,You don’t have any friend named Misato-chan, do you?
 Dialogue: 0,0:00:09.05,0:00:12.62,Default,Lain,0,0,0,,Ha, ha. What do you mean? That’s silly of you.
-Dialogue: 0,0:00:12.62,0:00:14.07,Default,Toko,0,0,0,,I asked Kyoko-chan.
+Dialogue: 0,0:00:12.62,0:00:14.07,Default,Touko,0,0,0,,I asked Kyoko-chan.
 Dialogue: 0,0:00:14.07,0:00:14.77,Default,Lain,0,0,0,,And?
-Dialogue: 0,0:00:14.77,0:00:19.57,Default,Toko,0,0,0,,She said that there is no Misato-chan. She said, "isn’t that Minako’s mistake?"
+Dialogue: 0,0:00:14.77,0:00:19.57,Default,Touko,0,0,0,,She said that there is no Misato-chan. She said, "isn’t that Minako’s mistake?"
 Dialogue: 0,0:00:19.57,0:00:22.10,Default,Lain,0,0,0,,Is that what you believe?
-Dialogue: 0,0:00:22.10,0:00:26.40,Default,Toko,0,0,0,,I’m not accusing you, but this is very important.
+Dialogue: 0,0:00:22.10,0:00:26.40,Default,Touko,0,0,0,,I’m not accusing you, but this is very important.
 Dialogue: 0,0:00:26.40,0:00:28.17,Default,Lain,0,0,0,,For you to write your report?
-Dialogue: 0,0:00:28.17,0:00:32.80,Default,Toko,0,0,0,,I won’t deny that. But I’m concerned about you personally.
+Dialogue: 0,0:00:28.17,0:00:32.80,Default,Touko,0,0,0,,I won’t deny that. But I’m concerned about you personally.
 Dialogue: 0,0:00:32.80,0:00:34.55,Default,Lain,0,0,0,,About me personally?
-Dialogue: 0,0:00:34.55,0:00:35.50,Default,Toko,0,0,0,,Yes.
-Dialogue: 0,0:00:35.50,0:00:39.80,Default,Toko,0,0,0,,I’m concerned that you might be creating imaginary friends and running away into your own little world.
-Dialogue: 0,0:00:39.80,0:00:41.25,Default,Toko,0,0,0,,That is a sickness.
+Dialogue: 0,0:00:34.55,0:00:35.50,Default,Touko,0,0,0,,Yes.
+Dialogue: 0,0:00:35.50,0:00:39.80,Default,Touko,0,0,0,,I’m concerned that you might be creating imaginary friends and running away into your own little world.
+Dialogue: 0,0:00:39.80,0:00:41.25,Default,Touko,0,0,0,,That is a sickness.
 Dialogue: 0,0:00:41.25,0:00:46.90,Default,Lain,0,0,0,,You said that kids often have that, and that there’s nothing wrong with it, Toko-san.
 Dialogue: 0,0:00:46.90,0:00:50.67,Default,Lain,0,0,0,,Misato-chan isn't an imaginary friend, either.
-Dialogue: 0,0:00:50.67,0:00:56.32,Default,Toko,0,0,0,,Then where is she? Can you call her right now? Can you give her a call right now, in front of me?
+Dialogue: 0,0:00:50.67,0:00:56.32,Default,Touko,0,0,0,,Then where is she? Can you call her right now? Can you give her a call right now, in front of me?
 Dialogue: 0,0:00:56.32,0:00:59.97,Default,Lain,0,0,0,,She can’t be contacted. She moved away.
-Dialogue: 0,0:00:59.97,0:01:02.55,Default,Toko,0,0,0,,Can you do anything to prove to me that she exists?
+Dialogue: 0,0:00:59.97,0:01:02.55,Default,Touko,0,0,0,,Can you do anything to prove to me that she exists?
 Dialogue: 0,0:01:02.55,0:01:04.55,Default,Lain,0,0,0,,That she exists?
-Dialogue: 0,0:01:04.55,0:01:06.82,Default,Toko,0,0,0,,Yes. Can you prove that?
+Dialogue: 0,0:01:04.55,0:01:06.82,Default,Touko,0,0,0,,Yes. Can you prove that?
 Dialogue: 0,0:01:06.82,0:01:08.25,Default,Lain,0,0,0,,My memory...
-Dialogue: 0,0:01:08.25,0:01:14.37,Default,Toko,0,0,0,,Look, Lain, I want to believe you, but I can’t read your mind or tell what your memories are.
+Dialogue: 0,0:01:08.25,0:01:14.37,Default,Touko,0,0,0,,Look, Lain, I want to believe you, but I can’t read your mind or tell what your memories are.

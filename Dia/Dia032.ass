@@ -17,6 +17,6 @@ Style: Default,Arial,14,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
-Dialogue: 0,0:00:00.78,0:00:07.38,Default,Toko,0,0,0,,To the chief administrative secretary: In order to confirm my client's history, I spoke to one of her classmates.
-Dialogue: 0,0:00:07.38,0:00:09.38,Default,Toko,0,0,0,,I found a problem.
-Dialogue: 0,0:00:10.56,0:00:15.30,Default,Toko,0,0,0,,I am terribly sorry, but may I resume counseling this client?
+Dialogue: 0,0:00:00.78,0:00:07.38,Default,Touko,0,0,0,,To the chief administrative secretary: In order to confirm my client's history, I spoke to one of her classmates.
+Dialogue: 0,0:00:07.38,0:00:09.38,Default,Touko,0,0,0,,I found a problem.
+Dialogue: 0,0:00:10.56,0:00:15.30,Default,Touko,0,0,0,,I am terribly sorry, but may I resume counseling this client?

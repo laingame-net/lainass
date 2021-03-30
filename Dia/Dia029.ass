@@ -17,10 +17,10 @@ Style: Default,Arial,14,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
-Dialogue: 0,0:00:00.58,0:00:08.16,Default,Toko,0,0,0,,Professor Takashima, I have prepared the final reports for my current client.
-Dialogue: 0,0:00:08.76,0:00:15.72,Default,Toko,0,0,0,,I thought that it might be a good idea to keep an appointment history, but because there seem to be have been so few problems, I did not keep one up till now.
-Dialogue: 0,0:00:16.50,0:00:21.12,Default,Toko,0,0,0,,By next month I will prepare a final report with the appointment history.
-Dialogue: 0,0:00:22.48,0:00:24.72,Default,Toko,0,0,0,,I don’t have much time until the academic conference this fall.
-Dialogue: 0,0:00:24.72,0:00:26.72,Default,Toko,0,0,0,,May I please request this of you?
-Dialogue: 0,0:00:27.16,0:00:28.88,Default,Toko,0,0,0,,As it is, I will not finish in time.
-Dialogue: 0,0:00:29.54,0:00:32.72,Default,Toko,0,0,0,,Are you harassing me?
+Dialogue: 0,0:00:00.58,0:00:08.16,Default,Touko,0,0,0,,Professor Takashima, I have prepared the final reports for my current client.
+Dialogue: 0,0:00:08.76,0:00:15.72,Default,Touko,0,0,0,,I thought that it might be a good idea to keep an appointment history, but because there seem to be have been so few problems, I did not keep one up till now.
+Dialogue: 0,0:00:16.50,0:00:21.12,Default,Touko,0,0,0,,By next month I will prepare a final report with the appointment history.
+Dialogue: 0,0:00:22.48,0:00:24.72,Default,Touko,0,0,0,,I don’t have much time until the academic conference this fall.
+Dialogue: 0,0:00:24.72,0:00:26.72,Default,Touko,0,0,0,,May I please request this of you?
+Dialogue: 0,0:00:27.16,0:00:28.88,Default,Touko,0,0,0,,As it is, I will not finish in time.
+Dialogue: 0,0:00:29.54,0:00:32.72,Default,Touko,0,0,0,,Are you harassing me?

@@ -17,17 +17,17 @@ Style: Default,Arial,14,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
-Dialogue: 0,0:00:00.22,0:00:03.88,Default,Toko,0,0,0,,Today on my way home from the lab, I ran into Yoshida-kun.
-Dialogue: 0,0:00:05.11,0:00:13.00,Default,Toko,0,0,0,,Lately, I had been so busy with helping Professor Takashima that I didn’t have time to talk to Yoshida-kun even when he visited the lab.
-Dialogue: 0,0:00:14.50,0:00:18.90,Default,Toko,0,0,0,,He seems to have been worried about me, and was waiting for me at the lab until I was through with work.
-Dialogue: 0,0:00:19.80,0:00:22.42,Default,Toko,0,0,0,,I don't want him to be too kind to me right now, when I’m feeling so irritable.
-Dialogue: 0,0:00:22.78,0:00:30.04,Default,Toko,0,0,0,,I feel like blaming someone for what’s been going on, and I feel that if someone is kind to me, my feelings for Takeshi-san will crumble.
-Dialogue: 0,0:00:31.94,0:00:38.49,Default,Toko,0,0,0,,Yoshida-kun just quietly walked me home, but he made me very happy.
-Dialogue: 0,0:00:40.00,0:00:43.17,Default,Toko,0,0,0,,There was a "me" that was happy then.
-Dialogue: 0,0:00:45.24,0:00:46.18,Default,Toko,0,0,0,,No.
-Dialogue: 0,0:00:46.18,0:00:47.60,Default,Toko,0,0,0,,I shouldn’t feel this way.
-Dialogue: 0,0:00:48.46,0:00:50.32,Default,Toko,0,0,0,,Takeshi-san is the one I like.
-Dialogue: 0,0:00:51.22,0:00:55.50,Default,Toko,0,0,0,,Any woman would be happy if a attractive guy like him was nice to her, wouldn't she?
-Dialogue: 0,0:00:57.02,0:01:01.05,Default,Toko,0,0,0,,Takeshi-san... I want you to catch me.
-Dialogue: 0,0:01:04.14,0:01:05.65,Default,Toko,0,0,0,,I really am tired.
-Dialogue: 0,0:01:06.52,0:01:11.26,Default,Toko,0,0,0,,I think I should use RML a little longer.
+Dialogue: 0,0:00:00.22,0:00:03.88,Default,Touko,0,0,0,,Today on my way home from the lab, I ran into Yoshida-kun.
+Dialogue: 0,0:00:05.11,0:00:13.00,Default,Touko,0,0,0,,Lately, I had been so busy with helping Professor Takashima that I didn’t have time to talk to Yoshida-kun even when he visited the lab.
+Dialogue: 0,0:00:14.50,0:00:18.90,Default,Touko,0,0,0,,He seems to have been worried about me, and was waiting for me at the lab until I was through with work.
+Dialogue: 0,0:00:19.80,0:00:22.42,Default,Touko,0,0,0,,I don't want him to be too kind to me right now, when I’m feeling so irritable.
+Dialogue: 0,0:00:22.78,0:00:30.04,Default,Touko,0,0,0,,I feel like blaming someone for what’s been going on, and I feel that if someone is kind to me, my feelings for Takeshi-san will crumble.
+Dialogue: 0,0:00:31.94,0:00:38.49,Default,Touko,0,0,0,,Yoshida-kun just quietly walked me home, but he made me very happy.
+Dialogue: 0,0:00:40.00,0:00:43.17,Default,Touko,0,0,0,,There was a "me" that was happy then.
+Dialogue: 0,0:00:45.24,0:00:46.18,Default,Touko,0,0,0,,No.
+Dialogue: 0,0:00:46.18,0:00:47.60,Default,Touko,0,0,0,,I shouldn’t feel this way.
+Dialogue: 0,0:00:48.46,0:00:50.32,Default,Touko,0,0,0,,Takeshi-san is the one I like.
+Dialogue: 0,0:00:51.22,0:00:55.50,Default,Touko,0,0,0,,Any woman would be happy if a attractive guy like him was nice to her, wouldn't she?
+Dialogue: 0,0:00:57.02,0:01:01.05,Default,Touko,0,0,0,,Takeshi-san... I want you to catch me.
+Dialogue: 0,0:01:04.14,0:01:05.65,Default,Touko,0,0,0,,I really am tired.
+Dialogue: 0,0:01:06.52,0:01:11.26,Default,Touko,0,0,0,,I think I should use RML a little longer.

@@ -17,22 +17,22 @@ Style: Default,Arial,14,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
-Dialogue: 0,0:00:02.15,0:00:08.72,Default,Toko,0,0,0,,I wanted to ask last time, but why do have that kind of hairstyle?
+Dialogue: 0,0:00:02.15,0:00:08.72,Default,Touko,0,0,0,,I wanted to ask last time, but why do have that kind of hairstyle?
 Dialogue: 0,0:00:09.98,0:00:11.64,Default,Lain,0,0,0,,It’s weird?
-Dialogue: 0,0:00:12.02,0:00:17.08,Default,Toko,0,0,0,,No, it’s great! You really look good that way. Is it a popular look at your school?
+Dialogue: 0,0:00:12.02,0:00:17.08,Default,Touko,0,0,0,,No, it’s great! You really look good that way. Is it a popular look at your school?
 Dialogue: 0,0:00:18.04,0:00:20.27,Default,Lain,0,0,0,,No. It’s just my own style.
-Dialogue: 0,0:00:21.95,0:00:29.12,Default,Toko,0,0,0,,You mentioned that you want to be like other kids. Why do you have a unique look?
+Dialogue: 0,0:00:21.95,0:00:29.12,Default,Touko,0,0,0,,You mentioned that you want to be like other kids. Why do you have a unique look?
 Dialogue: 0,0:00:30.18,0:00:38.00,Default,Lain,0,0,0,,It comes from the right, and probably, that’s why it goes out of the left. That’s why...
-Dialogue: 0,0:00:38.99,0:00:48.54,Default,Toko,0,0,0,,It works a little bit like a magic charm, then. I used have a magic charm, too.
+Dialogue: 0,0:00:38.99,0:00:48.54,Default,Touko,0,0,0,,It works a little bit like a magic charm, then. I used have a magic charm, too.
 Dialogue: 0,0:00:48.92,0:00:49.72,Default,Lain,0,0,0,,You did, Toko-san?
-Dialogue: 0,0:00:50.06,0:00:50.48,Default,Toko,0,0,0,,Sure.
-Dialogue: 0,0:00:50.48,0:00:55.11,Default,Toko,0,0,0,,It didn’t have to do with hairstyle, but I used to have a lucky rabbit’s foot.
-Dialogue: 0,0:00:55.67,0:01:00.12,Default,Toko,0,0,0,,I used to believe that it would keep me safe and happy, and I tied it to my backpack.
-Dialogue: 0,0:01:00.98,0:01:03.95,Default,Toko,0,0,0,,Looking back, it seems so ghastly.
-Dialogue: 0,0:01:04.59,0:01:08.16,Default,Toko,0,0,0,,To tie a little bunny’s foot to my backpack.
-Dialogue: 0,0:01:09.71,0:01:13.31,Default,Toko,0,0,0,,But then again, believing in the rabbit’s foot really made me feel safer.
+Dialogue: 0,0:00:50.06,0:00:50.48,Default,Touko,0,0,0,,Sure.
+Dialogue: 0,0:00:50.48,0:00:55.11,Default,Touko,0,0,0,,It didn’t have to do with hairstyle, but I used to have a lucky rabbit’s foot.
+Dialogue: 0,0:00:55.67,0:01:00.12,Default,Touko,0,0,0,,I used to believe that it would keep me safe and happy, and I tied it to my backpack.
+Dialogue: 0,0:01:00.98,0:01:03.95,Default,Touko,0,0,0,,Looking back, it seems so ghastly.
+Dialogue: 0,0:01:04.59,0:01:08.16,Default,Touko,0,0,0,,To tie a little bunny’s foot to my backpack.
+Dialogue: 0,0:01:09.71,0:01:13.31,Default,Touko,0,0,0,,But then again, believing in the rabbit’s foot really made me feel safer.
 Dialogue: 0,0:01:14.44,0:01:15.14,Default,Lain,0,0,0,,A magic charm?
-Dialogue: 0,0:01:15.87,0:01:16.07,Default,Toko,0,0,0,,Yeah.
-Dialogue: 0,0:01:17.75,0:01:20.07,Default,Toko,0,0,0,,Your hair looks really good, though, Lain.
-Dialogue: 0,0:01:21.22,0:01:25.30,Default,Toko,0,0,0,,If you had a hairstyle like everyone else’s, it wouldn’t be like you.
-Dialogue: 0,0:01:26.48,0:01:28.91,Default,Toko,0,0,0,,I think you look great the way you are.
+Dialogue: 0,0:01:15.87,0:01:16.07,Default,Touko,0,0,0,,Yeah.
+Dialogue: 0,0:01:17.75,0:01:20.07,Default,Touko,0,0,0,,Your hair looks really good, though, Lain.
+Dialogue: 0,0:01:21.22,0:01:25.30,Default,Touko,0,0,0,,If you had a hairstyle like everyone else’s, it wouldn’t be like you.
+Dialogue: 0,0:01:26.48,0:01:28.91,Default,Touko,0,0,0,,I think you look great the way you are.

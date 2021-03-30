@@ -17,5 +17,5 @@ Style: Default,Arial,14,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
-Dialogue: 0,0:00:00.38,0:00:03.74,Default,Toko,0,0,0,,I was somehow able to reconnect with my client.
-Dialogue: 0,0:00:04.58,0:00:11.34,Default,Toko,0,0,0,,Her symptoms haven’t particularly deteriorated, so I will try my best to slowly become more trustworthy.
+Dialogue: 0,0:00:00.38,0:00:03.74,Default,Touko,0,0,0,,I was somehow able to reconnect with my client.
+Dialogue: 0,0:00:04.58,0:00:11.34,Default,Touko,0,0,0,,Her symptoms haven’t particularly deteriorated, so I will try my best to slowly become more trustworthy.

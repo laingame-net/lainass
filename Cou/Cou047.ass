@@ -18,35 +18,35 @@ Style: Default,Arial,14,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
-Dialogue: 0,0:00:00.46,0:00:03.06,Default,Toko,0,0,0,,You’re Lain, aren’t you?
+Dialogue: 0,0:00:00.46,0:00:03.06,Default,Touko,0,0,0,,You’re Lain, aren’t you?
 Dialogue: 0,0:00:03.61,0:00:06.81,Default,Lain,0,0,0,,Sure I am. You’re being silly, Toko-san.
-Dialogue: 0,0:00:07.08,0:00:07.73,Default,Toko,0,0,0,,Oh, I’m sorry.
-Dialogue: 0,0:00:07.73,0:00:08.54,Default,Toko,0,0,0,,You’re right.
-Dialogue: 0,0:00:09.12,0:00:11.66,Default,Toko,0,0,0,,I’m a little tired.
-Dialogue: 0,0:00:12.24,0:00:14.18,Default,Toko,0,0,0,,I’m sorry for asking goofy questions.
-Dialogue: 0,0:00:15.14,0:00:17.97,Default,Toko,0,0,0,,You seem to be really doing well lately, Lain.
+Dialogue: 0,0:00:07.08,0:00:07.73,Default,Touko,0,0,0,,Oh, I’m sorry.
+Dialogue: 0,0:00:07.73,0:00:08.54,Default,Touko,0,0,0,,You’re right.
+Dialogue: 0,0:00:09.12,0:00:11.66,Default,Touko,0,0,0,,I’m a little tired.
+Dialogue: 0,0:00:12.24,0:00:14.18,Default,Touko,0,0,0,,I’m sorry for asking goofy questions.
+Dialogue: 0,0:00:15.14,0:00:17.97,Default,Touko,0,0,0,,You seem to be really doing well lately, Lain.
 Dialogue: 0,0:00:17.97,0:00:20.05,Default,Lain,0,0,0,,I haven’t changed.
-Dialogue: 0,0:00:20.94,0:00:24.73,Default,Toko,0,0,0,,We’ve been having counseling sessions for a long time.
+Dialogue: 0,0:00:20.94,0:00:24.73,Default,Touko,0,0,0,,We’ve been having counseling sessions for a long time.
 Dialogue: 0,0:00:25.16,0:00:30.98,Default,Lain,0,0,0,,A long time? Do you mean many times? Have I been seeing you too much?
-Dialogue: 0,0:00:33.55,0:00:37.94,Default,Toko,0,0,0,,Maybe. What do you think?
+Dialogue: 0,0:00:33.55,0:00:37.94,Default,Touko,0,0,0,,Maybe. What do you think?
 Dialogue: 0,0:00:38.58,0:00:41.05,Default,Lain,0,0,0,,There seem to be many areas left.
-Dialogue: 0,0:00:41.40,0:00:45.73,Default,Toko,0,0,0,,What do you mean? Don't tell me things I can’t understand.
+Dialogue: 0,0:00:41.40,0:00:45.73,Default,Touko,0,0,0,,What do you mean? Don't tell me things I can’t understand.
 Dialogue: 0,0:00:45.73,0:00:51.21,Default,Lain,0,0,0,,What’s wrong? Are you angry? You can’t control your emotions?
-Dialogue: 0,0:00:51.21,0:00:56.30,Default,Toko,0,0,0,,Why are you asking me this! Look, Lain. Are you playing with me? Are you mocking me?
+Dialogue: 0,0:00:51.21,0:00:56.30,Default,Touko,0,0,0,,Why are you asking me this! Look, Lain. Are you playing with me? Are you mocking me?
 Dialogue: 0,0:00:56.30,0:00:57.24,Default,Lain,0,0,0,,No.
-Dialogue: 0,0:00:57.24,0:01:01.95,Default,Toko,0,0,0,,This counseling session is for YOU. You come here to see me. Not the other way around.
+Dialogue: 0,0:00:57.24,0:01:01.95,Default,Touko,0,0,0,,This counseling session is for YOU. You come here to see me. Not the other way around.
 Dialogue: 0,0:01:01.95,0:01:07.33,Default,Lain,0,0,0,,But you said that I could talk. I want to know about you.
-Dialogue: 0,0:01:07.33,0:01:12.30,Default,Toko,0,0,0,,How is finding out about me going to help you? Do you just want to irritate me?
+Dialogue: 0,0:01:07.33,0:01:12.30,Default,Touko,0,0,0,,How is finding out about me going to help you? Do you just want to irritate me?
 Dialogue: 0,0:01:12.74,0:01:14.66,Default,Lain,0,0,0,,You really didn’t like my questions?
-Dialogue: 0,0:01:14.66,0:01:15.42,Default,Toko,0,0,0,,No, I didn’t!
-Dialogue: 0,0:01:15.42,0:01:17.31,Default,Toko,0,0,0,,I want you to leave things alone.
-Dialogue: 0,0:01:17.31,0:01:19.61,Default,Toko,0,0,0,,I don’t want you trying to get inside my head.
-Dialogue: 0,0:01:20.18,0:01:21.20,Default,Toko,0,0,0,,That’s what I think.
+Dialogue: 0,0:01:14.66,0:01:15.42,Default,Touko,0,0,0,,No, I didn’t!
+Dialogue: 0,0:01:15.42,0:01:17.31,Default,Touko,0,0,0,,I want you to leave things alone.
+Dialogue: 0,0:01:17.31,0:01:19.61,Default,Touko,0,0,0,,I don’t want you trying to get inside my head.
+Dialogue: 0,0:01:20.18,0:01:21.20,Default,Touko,0,0,0,,That’s what I think.
 Dialogue: 0,0:01:21.78,0:01:23.65,Default,Lain,0,0,0,,Aren’t you sad to be alone?
-Dialogue: 0,0:01:23.65,0:01:24.82,Default,Toko,0,0,0,,I’m not alone!
-Dialogue: 0,0:01:24.82,0:01:26.38,Default,Toko,0,0,0,,I am not you!
-Dialogue: 0,0:01:26.38,0:01:28.25,Default,Toko,0,0,0,,You are Lain, aren’t you?
-Dialogue: 0,0:01:29.29,0:01:34.80,Default,Toko,0,0,0,,You’re the proper, reserved, sad girl without much self-confidence, aren’t you?
+Dialogue: 0,0:01:23.65,0:01:24.82,Default,Touko,0,0,0,,I’m not alone!
+Dialogue: 0,0:01:24.82,0:01:26.38,Default,Touko,0,0,0,,I am not you!
+Dialogue: 0,0:01:26.38,0:01:28.25,Default,Touko,0,0,0,,You are Lain, aren’t you?
+Dialogue: 0,0:01:29.29,0:01:34.80,Default,Touko,0,0,0,,You’re the proper, reserved, sad girl without much self-confidence, aren’t you?
 Dialogue: 0,0:01:34.80,0:01:40.37,Default,Lain,0,0,0,,No, that’s not me. I think my personality is much different from that.
-Dialogue: 0,0:01:40.37,0:01:41.48,Default,Toko,0,0,0,,Then who are you?
+Dialogue: 0,0:01:40.37,0:01:41.48,Default,Touko,0,0,0,,Then who are you?
 Dialogue: 0,0:01:41.74,0:01:43.92,Default,Lain,0,0,0,,I’m... Lain.

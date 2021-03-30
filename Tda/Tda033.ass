@@ -17,12 +17,12 @@ Style: Default,Arial,14,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
-Dialogue: 0,0:00:01.78,0:00:05.65,Default,Toko,0,0,0,,Kanako said that she though the freedom and liberation of American living had rubbed off on me.
-Dialogue: 0,0:00:07.10,0:00:09.56,Default,Toko,0,0,0,,I was a bit embarrassed to hear that.
-Dialogue: 0,0:00:10.87,0:00:17.02,Default,Toko,0,0,0,,Looking at the postcard photo from Harumi’s honeymoon, I laughed.
-Dialogue: 0,0:00:18.18,0:00:21.46,Default,Toko,0,0,0,,I’m jealous, though I pretend not to be.
-Dialogue: 0,0:00:23.09,0:00:26.48,Default,Toko,0,0,0,,Kanako said that she still has no plans of getting married.
-Dialogue: 0,0:00:27.56,0:00:32.03,Default,Toko,0,0,0,,I hope that she doesn’t proclaim all of a sudden that she will get married, like Harumi did.
-Dialogue: 0,0:00:33.03,0:00:35.35,Default,Toko,0,0,0,,What will I do when Kanako gets married?
-Dialogue: 0,0:00:35.35,0:00:36.95,Default,Toko,0,0,0,,I’ll be too sad.
-Dialogue: 0,0:00:39.93,0:00:42.85,Default,Toko,0,0,0,,Takeshi-san, what’s going on with you?
+Dialogue: 0,0:00:01.78,0:00:05.65,Default,Touko,0,0,0,,Kanako said that she though the freedom and liberation of American living had rubbed off on me.
+Dialogue: 0,0:00:07.10,0:00:09.56,Default,Touko,0,0,0,,I was a bit embarrassed to hear that.
+Dialogue: 0,0:00:10.87,0:00:17.02,Default,Touko,0,0,0,,Looking at the postcard photo from Harumi’s honeymoon, I laughed.
+Dialogue: 0,0:00:18.18,0:00:21.46,Default,Touko,0,0,0,,I’m jealous, though I pretend not to be.
+Dialogue: 0,0:00:23.09,0:00:26.48,Default,Touko,0,0,0,,Kanako said that she still has no plans of getting married.
+Dialogue: 0,0:00:27.56,0:00:32.03,Default,Touko,0,0,0,,I hope that she doesn’t proclaim all of a sudden that she will get married, like Harumi did.
+Dialogue: 0,0:00:33.03,0:00:35.35,Default,Touko,0,0,0,,What will I do when Kanako gets married?
+Dialogue: 0,0:00:35.35,0:00:36.95,Default,Touko,0,0,0,,I’ll be too sad.
+Dialogue: 0,0:00:39.93,0:00:42.85,Default,Touko,0,0,0,,Takeshi-san, what’s going on with you?

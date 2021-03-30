@@ -16,4 +16,4 @@ Style: Default,Arial,14,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
-Dialogue: 0,0:00:00.30,0:00:03.26,Default,Toko,0,0,0,,Even if we’re together, we’re too far away.
+Dialogue: 0,0:00:00.30,0:00:03.26,Default,Touko,0,0,0,,Even if we’re together, we’re too far away.

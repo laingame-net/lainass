@@ -18,34 +18,34 @@ Style: Default,Arial,14,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
-Dialogue: 0,0:00:00.44,0:00:01.25,Default,Toko,0,0,0,,I see.
-Dialogue: 0,0:00:01.70,0:00:04.84,Default,Toko,0,0,0,,That’s probably because you are a strong person.
-Dialogue: 0,0:00:05.30,0:00:11.44,Default,Toko,0,0,0,,I think I was probably weak and that I was trying to run away because of it.
+Dialogue: 0,0:00:00.44,0:00:01.25,Default,Touko,0,0,0,,I see.
+Dialogue: 0,0:00:01.70,0:00:04.84,Default,Touko,0,0,0,,That’s probably because you are a strong person.
+Dialogue: 0,0:00:05.30,0:00:11.44,Default,Touko,0,0,0,,I think I was probably weak and that I was trying to run away because of it.
 Dialogue: 0,0:00:11.90,0:00:14.57,Default,Lain,0,0,0,,Do you think I’m trying to run away from myself?
-Dialogue: 0,0:00:15.10,0:00:20.09,Default,Toko,0,0,0,,I don’t think so. But you want to change yourself, don’t you?
+Dialogue: 0,0:00:15.10,0:00:20.09,Default,Touko,0,0,0,,I don’t think so. But you want to change yourself, don’t you?
 Dialogue: 0,0:00:20.81,0:00:24.42,Default,Lain,0,0,0,,I just don’t want to see any more bad dreams. I think that's how i feel.
-Dialogue: 0,0:00:26.01,0:00:31.06,Default,Toko,0,0,0,,Could it be that you don’t want to be the person who sees the bad dreams?
-Dialogue: 0,0:00:31.28,0:00:33.26,Default,Toko,0,0,0,,Maybe you feel that way somewhere deep inside yourself?
-Dialogue: 0,0:00:33.48,0:00:38.41,Default,Toko,0,0,0,,Could it be that you are subconsciously trying to construct a "me" that isn’t "me"?
+Dialogue: 0,0:00:26.01,0:00:31.06,Default,Touko,0,0,0,,Could it be that you don’t want to be the person who sees the bad dreams?
+Dialogue: 0,0:00:31.28,0:00:33.26,Default,Touko,0,0,0,,Maybe you feel that way somewhere deep inside yourself?
+Dialogue: 0,0:00:33.48,0:00:38.41,Default,Touko,0,0,0,,Could it be that you are subconsciously trying to construct a "me" that isn’t "me"?
 Dialogue: 0,0:00:39.18,0:00:41.56,Default,Lain,0,0,0,,What should I do?
-Dialogue: 0,0:00:41.88,0:00:47.00,Default,Toko,0,0,0,,Do you think you can accept your dreams?
+Dialogue: 0,0:00:41.88,0:00:47.00,Default,Touko,0,0,0,,Do you think you can accept your dreams?
 Dialogue: 0,0:00:47.88,0:00:48.90,Default,Lain,0,0,0,,Accept?
-Dialogue: 0,0:00:48.90,0:00:49.54,Default,Toko,0,0,0,,Right.
-Dialogue: 0,0:00:50.22,0:00:57.82,Default,Toko,0,0,0,,I mean facing the "you" that you don’t want to meet or hear, and then trying to become friends with them.
+Dialogue: 0,0:00:48.90,0:00:49.54,Default,Touko,0,0,0,,Right.
+Dialogue: 0,0:00:50.22,0:00:57.82,Default,Touko,0,0,0,,I mean facing the "you" that you don’t want to meet or hear, and then trying to become friends with them.
 Dialogue: 0,0:00:59.02,0:00:59.97,Default,Lain,0,0,0,,I can’t.
-Dialogue: 0,0:01:00.62,0:01:03.16,Default,Toko,0,0,0,,I think that all you have to do is listen to the voices.
-Dialogue: 0,0:01:03.66,0:01:06.30,Default,Toko,0,0,0,,See what they are saying and see what they want to do.
-Dialogue: 0,0:01:07.25,0:01:10.46,Default,Toko,0,0,0,,Face them until you understand them and expose them.
+Dialogue: 0,0:01:00.62,0:01:03.16,Default,Touko,0,0,0,,I think that all you have to do is listen to the voices.
+Dialogue: 0,0:01:03.66,0:01:06.30,Default,Touko,0,0,0,,See what they are saying and see what they want to do.
+Dialogue: 0,0:01:07.25,0:01:10.46,Default,Touko,0,0,0,,Face them until you understand them and expose them.
 Dialogue: 0,0:01:11.02,0:01:13.21,Default,Lain,0,0,0,,I’m scared.
-Dialogue: 0,0:01:13.92,0:01:16.80,Default,Toko,0,0,0,,But you’ve made it so far.
-Dialogue: 0,0:01:17.26,0:01:18.93,Default,Toko,0,0,0,,You’re still you.
-Dialogue: 0,0:01:19.61,0:01:24.98,Default,Toko,0,0,0,,You’ve never had a ghost punch you or had a voice act violently with you, right?
-Dialogue: 0,0:01:25.68,0:01:29.13,Default,Toko,0,0,0,,Maybe these ghosts and voices are trying to be friends with you.
-Dialogue: 0,0:01:30.10,0:01:30.85,Default,Toko,0,0,0,,Ha, ha.
-Dialogue: 0,0:01:30.85,0:01:32.56,Default,Toko,0,0,0,,If you don’t see the ghosts again, great.
-Dialogue: 0,0:01:32.76,0:01:37.21,Default,Toko,0,0,0,,But I if you do see them, I think that it’s important that you have a good attitude and know how to brace yourself.
-Dialogue: 0,0:01:37.97,0:01:41.25,Default,Toko,0,0,0,,If the ghosts show up, just shake it off your shoulders and say, "oh, here they are again."
+Dialogue: 0,0:01:13.92,0:01:16.80,Default,Touko,0,0,0,,But you’ve made it so far.
+Dialogue: 0,0:01:17.26,0:01:18.93,Default,Touko,0,0,0,,You’re still you.
+Dialogue: 0,0:01:19.61,0:01:24.98,Default,Touko,0,0,0,,You’ve never had a ghost punch you or had a voice act violently with you, right?
+Dialogue: 0,0:01:25.68,0:01:29.13,Default,Touko,0,0,0,,Maybe these ghosts and voices are trying to be friends with you.
+Dialogue: 0,0:01:30.10,0:01:30.85,Default,Touko,0,0,0,,Ha, ha.
+Dialogue: 0,0:01:30.85,0:01:32.56,Default,Touko,0,0,0,,If you don’t see the ghosts again, great.
+Dialogue: 0,0:01:32.76,0:01:37.21,Default,Touko,0,0,0,,But I if you do see them, I think that it’s important that you have a good attitude and know how to brace yourself.
+Dialogue: 0,0:01:37.97,0:01:41.25,Default,Touko,0,0,0,,If the ghosts show up, just shake it off your shoulders and say, "oh, here they are again."
 Dialogue: 0,0:01:41.93,0:01:44.13,Default,Lain,0,0,0,,I’m leaving. I’m going home.
-Dialogue: 0,0:01:44.40,0:01:47.64,Default,Toko,0,0,0,,Why? Did I say something I shouldn’t have?
+Dialogue: 0,0:01:44.40,0:01:47.64,Default,Touko,0,0,0,,Why? Did I say something I shouldn’t have?
 Dialogue: 0,0:01:48.25,0:01:54.70,Default,Lain,0,0,0,,I didn’t lie to you. I didn’t see any ghosts or phantoms. You’re a big jerk!
-Dialogue: 0,0:01:55.61,0:01:56.56,Default,Toko,0,0,0,,Lain!
+Dialogue: 0,0:01:55.61,0:01:56.56,Default,Touko,0,0,0,,Lain!
