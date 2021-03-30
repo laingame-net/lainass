@@ -20,7 +20,7 @@ Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
 Dialogue: 0,0:00:00.06,0:00:04.29,Default,Lain,0,0,0,,I’ve been trying since two days ago until today, but I still can’t get in.
 Dialogue: 0,0:00:04.82,0:00:05.73,Default,Lain,0,0,0,,Why?
 Dialogue: 0,0:00:05.96,0:00:07.81,Default,Lain,0,0,0,,I could access her research center.
-Dialogue: 0,0:00:08.08,0:00:15.52,Default,Lain,0,0,0,,Data about the patients Toko-san is overseeing was available, but it wasn’t really data—just file names without information.
+Dialogue: 0,0:00:08.08,0:00:15.52,Default,Lain,0,0,0,,Data about the patients Touko-san is overseeing was available, but it wasn’t really data—just file names without information.
 Dialogue: 0,0:00:15.52,0:00:19.90,Default,Lain,0,0,0,,When I checked the file reports, I could see that everything was communicated correctly.
 Dialogue: 0,0:00:19.90,0:00:21.55,Default,Lain,0,0,0,,But I can’t see the actual data.
 Dialogue: 0,0:00:21.77,0:00:24.17,Default,Lain,0,0,0,,It isn’t as if it’s in encrypted language.

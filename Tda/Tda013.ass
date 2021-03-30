@@ -17,7 +17,7 @@ Style: Default,Arial,14,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
-Dialogue: 0,0:00:01.07,0:00:03.38,Default,Touko,0,0,0,,You can’t be sluggish, Toko.
+Dialogue: 0,0:00:01.07,0:00:03.38,Default,Touko,0,0,0,,You can’t be sluggish, Touko.
 Dialogue: 0,0:00:04.09,0:00:07.18,Default,Touko,0,0,0,,I have to work hard and get moving at a good speed.
 Dialogue: 0,0:00:08.13,0:00:10.40,Default,Touko,0,0,0,,Everyone is indifferent about me anyway.
 Dialogue: 0,0:00:11.78,0:00:14.36,Default,Touko,0,0,0,,I don’t care if I don’t become super-prestigious.

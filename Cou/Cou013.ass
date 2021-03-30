@@ -18,7 +18,7 @@ Style: Default,Arial,14,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
-Dialogue: 0,0:00:00.33,0:00:01.72,Default,Lain,0,0,0,,Hello, Toko-san.
+Dialogue: 0,0:00:00.33,0:00:01.72,Default,Lain,0,0,0,,Hello, Touko-san.
 Dialogue: 0,0:00:02.10,0:00:03.45,Default,Touko,0,0,0,,Hello, Lain.
 Dialogue: 0,0:00:04.09,0:00:07.05,Default,Touko,0,0,0,,Ok, from today we’re going to really tackle what’s bothering you, Lain-chan.
 Dialogue: 0,0:00:07.20,0:00:08.33,Default,Touko,0,0,0,,I’m sorry.

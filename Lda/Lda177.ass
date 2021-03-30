@@ -17,19 +17,19 @@ Style: Default,Arial,14,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
-Dialogue: 0,0:00:00.00,0:00:05.10,Default,Lain,0,0,0,,I went to see Toko-san alone because Mom was sleeping in.
-Dialogue: 0,0:00:05.84,0:00:10.08,Default,Lain,0,0,0,,I asked Toko-san what she writes about me in her research reports.
+Dialogue: 0,0:00:00.00,0:00:05.10,Default,Lain,0,0,0,,I went to see Touko-san alone because Mom was sleeping in.
+Dialogue: 0,0:00:05.84,0:00:10.08,Default,Lain,0,0,0,,I asked Touko-san what she writes about me in her research reports.
 Dialogue: 0,0:00:10.44,0:00:13.24,Default,Lain,0,0,0,,She didn't give me a clear answer.
-Dialogue: 0,0:00:13.80,0:00:20.04,Default,Lain,0,0,0,,While Toko-san left the room for a while, I took copies of some pages from her notebook.
-Dialogue: 0,0:00:20.04,0:00:25.84,Default,Lain,0,0,0,,I thought that I now knew the research data Toko-san keeps about me, and that I knew what she does with it.
+Dialogue: 0,0:00:13.80,0:00:20.04,Default,Lain,0,0,0,,While Touko-san left the room for a while, I took copies of some pages from her notebook.
+Dialogue: 0,0:00:20.04,0:00:25.84,Default,Lain,0,0,0,,I thought that I now knew the research data Touko-san keeps about me, and that I knew what she does with it.
 Dialogue: 0,0:00:25.84,0:00:31.90,Default,Lain,0,0,0,,I could see that she sends information about me to the research room, and that she sends a lot of it.
 Dialogue: 0,0:00:31.90,0:00:33.40,Default,Lain,0,0,0,,Could it be visual data?
 Dialogue: 0,0:00:33.40,0:00:35.78,Default,Lain,0,0,0,,Auditory data?
 Dialogue: 0,0:00:35.78,0:00:39.40,Default,Lain,0,0,0,,I also noticed some writing that seemed to have daily entries in it.
 Dialogue: 0,0:00:39.40,0:00:40.98,Default,Lain,0,0,0,,Could it be a diary?
 Dialogue: 0,0:00:40.98,0:00:44.02,Default,Lain,0,0,0,,I couldn't find that data in her ‘host’ page.
-Dialogue: 0,0:00:44.02,0:00:48.24,Default,Lain,0,0,0,,Toko-san tends to transmit her data late at night.
+Dialogue: 0,0:00:44.02,0:00:48.24,Default,Lain,0,0,0,,Touko-san tends to transmit her data late at night.
 Dialogue: 0,0:00:48.24,0:00:50.40,Default,Lain,0,0,0,,I’ll try to access her site then.
 Dialogue: 0,0:00:51.44,0:00:57.74,Default,Lain,0,0,0,,She has a very big file about me that would take a long time to download, so I don’t think she’ll find out if I accessed it.
-Dialogue: 0,0:00:57.74,0:01:01.86,Default,Lain,0,0,0,,I don’t think Toko-san knows much about machines and computers.
-Dialogue: 0,0:01:02.42,0:01:08.46,Default,Lain,0,0,0,,I feel bad because I think I’m tricking Toko-san, but on the other hand, I feel good.
+Dialogue: 0,0:00:57.74,0:01:01.86,Default,Lain,0,0,0,,I don’t think Touko-san knows much about machines and computers.
+Dialogue: 0,0:01:02.42,0:01:08.46,Default,Lain,0,0,0,,I feel bad because I think I’m tricking Touko-san, but on the other hand, I feel good.
