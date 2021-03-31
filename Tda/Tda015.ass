@@ -9,7 +9,8 @@ YCbCr Matrix: None
 
 [Aegisub Project Garbage]
 Audio File: Tda015.mp4
-Active Line: 11
+Scroll Position: 18
+Active Line: 25
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -17,7 +18,7 @@ Style: Default,Arial,14,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
-Dialogue: 0,0:00:00.26,0:00:02.83,Default,Touko,0,0,0,,I’ve felt poorly all day today.
+Dialogue: 0,0:00:00.26,0:00:02.83,Default,Touko,0,0,0,,I’ve felt bad all day today.
 Dialogue: 0,0:00:03.72,0:00:06.35,Default,Touko,0,0,0,,Why do the Japanese like to spread rumors?
 Dialogue: 0,0:00:07.91,0:00:10.87,Default,Touko,0,0,0,,I was surprised to learn that people know I’m going out with Takeshi-san.
 Dialogue: 0,0:00:11.65,0:00:14.84,Default,Touko,0,0,0,,I wish they would stop whispering behind my back.
@@ -29,7 +30,7 @@ Dialogue: 0,0:00:44.81,0:00:48.18,Default,Touko,0,0,0,,I’m sure it makes them 
 Dialogue: 0,0:00:49.22,0:00:51.40,Default,Touko,0,0,0,,Ahhhh! It makes me so mad!
 Dialogue: 0,0:00:51.56,0:00:53.40,Default,Touko,0,0,0,,Now I know why everybody looks at me funny.
 Dialogue: 0,0:00:54.30,0:00:56.99,Default,Touko,0,0,0,,If you want to know about my business, face me and ask me about it.
-Dialogue: 0,0:00:58.80,0:01:01.26,Default,Touko,0,0,0,,But instead you talk about this stuff for everyone to hear.
+Dialogue: 0,0:00:58.80,0:01:01.26,Default,Touko,0,0,0,,But instead you gossip about this stuff for everyone to hear.
 Dialogue: 0,0:01:01.86,0:01:04.04,Default,Touko,0,0,0,,Why the hell are you working in a medical research center?
 Dialogue: 0,0:01:04.22,0:01:06.14,Default,Touko,0,0,0,,Do what you’re here to do.
 Dialogue: 0,0:01:08.25,0:01:10.53,Default,Touko,0,0,0,,Takeshi-san told me not to mind it.
@@ -42,5 +43,5 @@ Dialogue: 0,0:01:24.51,0:01:27.13,Default,Touko,0,0,0,,But I feel rotten today.
 Dialogue: 0,0:01:30.52,0:01:33.52,Default,Touko,0,0,0,,I wish Takeshi-san were here right now.
 Dialogue: 0,0:01:35.08,0:01:38.73,Default,Touko,0,0,0,,But I suppose it would just be a nuisance if I go to him with all this.
 Dialogue: 0,0:01:39.98,0:01:41.85,Default,Touko,0,0,0,,I know he’s very busy now.
-Dialogue: 0,0:01:43.73,0:01:48.96,Default,Touko,0,0,0,,I wonder if he knows that all these rumors going around.
+Dialogue: 0,0:01:43.73,0:01:48.96,Default,Touko,0,0,0,,I wonder if he knows there are these rumors going around.
 Dialogue: 0,0:01:50.52,0:01:54.28,Default,Touko,0,0,0,,Maybe he’s feeling lousy, too.

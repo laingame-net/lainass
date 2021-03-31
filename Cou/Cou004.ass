@@ -9,7 +9,8 @@ YCbCr Matrix: None
 
 [Aegisub Project Garbage]
 Audio File: Cou004.mp4
-Active Line: 7
+Scroll Position: 11
+Active Line: 19
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -17,7 +18,7 @@ Style: Default,Arial,14,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
-Dialogue: 0,0:00:00.20,0:00:05.01,Default,Touko,0,0,0,,8th of July, 2pm, 2nd session
+Dialogue: 0,0:00:00.20,0:00:05.01,Default,Touko,0,0,0,,8th of July, 2 PM, 2nd session.
 Dialogue: 0,0:00:07.56,0:00:09.88,Default,Touko,0,0,0,,Come on in.
 Dialogue: 0,0:00:10.64,0:00:12.16,Default,Lain,0,0,0,,Touko, hello.
 Dialogue: 0,0:00:12.32,0:00:14.78,Default,Touko,0,0,0,,Hello, Lain.
@@ -26,17 +27,17 @@ Dialogue: 0,0:00:16.34,0:00:19.10,Default,Touko,0,0,0,,It’s almost the summer 
 Dialogue: 0,0:00:19.69,0:00:20.65,Default,Lain,0,0,0,,Not especially.
 Dialogue: 0,0:00:21.69,0:00:29.09,Default,Touko,0,0,0,,Let’s see here, today I’d like to play a game with you Lain, that’s why I brought this.
 Dialogue: 0,0:00:29.09,0:00:30.45,Default,Lain,0,0,0,,What’s that?
-Dialogue: 0,0:00:30.45,0:00:33.73,Default,Touko,0,0,0,,It’s oil painting set. Do you like to paint Lain?
-Dialogue: 0,0:00:34.22,0:00:36.73,Default,Lain,0,0,0,,I don’t like paintings... Maybe...
+Dialogue: 0,0:00:30.45,0:00:33.73,Default,Touko,0,0,0,,It’s oil painting set. Do you like to paint, Lain?
+Dialogue: 0,0:00:34.22,0:00:36.73,Default,Lain,0,0,0,,I don’t like painting... Maybe...
 Dialogue: 0,0:00:37.45,0:00:42.94,Default,Touko,0,0,0,,I see... Well, do you know tic-tac-toe?
 Dialogue: 0,0:00:43.25,0:00:46.12,Default,Lain,0,0,0,,I know it, but I don’t want to play that.
-Dialogue: 0,0:00:46.30,0:00:56.53,Default,Touko,0,0,0,,I... I’m sorry. Well, do you have anything you want to do Lain?
+Dialogue: 0,0:00:46.30,0:00:56.53,Default,Touko,0,0,0,,I... I’m sorry. Well, do you have anything you want to do, Lain?
 Dialogue: 0,0:00:56.98,0:00:59.08,Default,Lain,0,0,0,,I’d like to talk some more.
 Dialogue: 0,0:00:59.89,0:01:03.32,Default,Touko,0,0,0,,What do you want to talk about?
 Dialogue: 0,0:01:03.81,0:01:07.10,Default,Lain,0,0,0,,Whatever. About you.
-Dialogue: 0,0:01:07.65,0:01:13.26,Default,Touko,0,0,0,,About me? Well... I’m not that interesting you know.
-Dialogue: 0,0:01:13.88,0:01:14.49,Default,Lain,0,0,0,,Yes, you are.
-Dialogue: 0,0:01:15.17,0:01:17.18,Default,Touko,0,0,0,,No really, I’m not that interesting.
+Dialogue: 0,0:01:07.65,0:01:13.26,Default,Touko,0,0,0,,About me? Well... I’m not that interesting, you know.
+Dialogue: 0,0:01:13.88,0:01:14.49,Default,Lain,0,0,0,,...It's not okay?
+Dialogue: 0,0:01:15.17,0:01:17.18,Default,Touko,0,0,0,,No, that's not the case.
 Dialogue: 0,0:01:17.62,0:01:26.44,Default,Touko,0,0,0,,But look, I’m already 27, if we talked about me we’d have to start all the way at the beginning and it’d take forever!
 Dialogue: 0,0:01:27.00,0:01:29.62,Default,Touko,0,0,0,,And really, it’s not a very interesting story at that.
 Dialogue: 0,0:01:30.53,0:01:32.42,Default,Lain,0,0,0,,What kind of doctor are you?
@@ -46,8 +47,8 @@ Dialogue: 0,0:01:39.84,0:01:43.53,Default,Touko,0,0,0,,And I give them advice to
 Dialogue: 0,0:01:44.30,0:01:45.04,Default,Touko,0,0,0,,You understand?
 Dialogue: 0,0:01:46.02,0:01:49.24,Default,Lain,0,0,0,,Ah... I thought so.
 Dialogue: 0,0:01:50.81,0:01:52.22,Default,Touko,0,0,0,,What’s wrong?
-Dialogue: 0,0:01:53.04,0:01:57.57,Default,Touko,0,0,0,,If you’re not feeling well, or you’re not comfortable please tell me, you can be honest with me.
-Dialogue: 0,0:01:58.17,0:01:59.82,Default,Touko,0,0,0,,I should be more careful really.
+Dialogue: 0,0:01:53.04,0:01:57.57,Default,Touko,0,0,0,,If you’re not feeling well, or you’re not comfortable, please tell me. You can be honest with me.
+Dialogue: 0,0:01:58.17,0:01:59.82,Default,Touko,0,0,0,,I should be more careful, really.
 Dialogue: 0,0:02:00.70,0:02:04.10,Default,Touko,0,0,0,,You shouldn’t worry so much.
 Dialogue: 0,0:02:04.58,0:02:09.65,Default,Touko,0,0,0,,Just relax, come and have a nice talk with me once a month.
 Dialogue: 0,0:02:10.45,0:02:11.00,Default,Lain,0,0,0,,Okay...

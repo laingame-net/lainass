@@ -9,8 +9,8 @@ YCbCr Matrix: None
 
 [Aegisub Project Garbage]
 Audio File: Cou020.mp4
-Scroll Position: 23
-Active Line: 38
+Scroll Position: 27
+Active Line: 37
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -53,11 +53,11 @@ Dialogue: 0,0:01:35.74,0:01:38.73,Default,Touko,0,0,0,,Ok. I’ll fill you in a 
 Dialogue: 0,0:01:39.44,0:01:54.15,Default,Touko,0,0,0,,The definition of "delusion" is taking a mistaken idea and believing in your own mind that it is correct.
 Dialogue: 0,0:01:54.46,0:02:00.02,Default,Touko,0,0,0,,But for you, Lain, you say that you might have felt or sensed something.
 Dialogue: 0,0:02:00.02,0:02:03.68,Default,Touko,0,0,0,,You don't have conviction in your feelings, so they aren't delusions.
-Dialogue: 0,0:02:04.12,0:02:07.20,Default,Touko,0,0,0,,You have thoughts, in technical term, we call it delusional ideation.
-Dialogue: 0,0:02:07.20,0:02:08.44,Default,Lain,0,0,0,,Delusional ideation?
-Dialogue: 0,0:02:08.60,0:02:11.88,Default,Touko,0,0,0,,You can forget that phrase if you’d like.
-Dialogue: 0,0:02:12.80,0:02:18.88,Default,Touko,0,0,0,,As I mentioned before, a delusion is generally something intertwined with one’s self.
-Dialogue: 0,0:02:18.88,0:02:21.97,Default,Touko,0,0,0,,Most of the time, there are no delusions that don't involve me.
+Dialogue: 0,0:02:04.12,0:02:07.20,Default,Touko,0,0,0,,You have thoughts, in technical terms, we call it contemplations.
+Dialogue: 0,0:02:07.20,0:02:08.44,Default,Lain,0,0,0,,Contemplations?
+Dialogue: 0,0:02:08.60,0:02:11.88,Default,Touko,0,0,0,,You can forget that term if you’d like.
+Dialogue: 0,0:02:13.02,0:02:18.53,Default,Touko,0,0,0,,As I mentioned before, a delusion is generally something intertwined with one’s self.
+Dialogue: 0,0:02:19.24,0:02:21.97,Default,Touko,0,0,0,,Most of the time, there are no delusions that don't involve me.
 Dialogue: 0,0:02:21.97,0:02:23.44,Default,Lain,0,0,0,,I’m not delusional?
 Dialogue: 0,0:02:23.44,0:02:25.28,Default,Touko,0,0,0,,Fundamentally, no.
 Dialogue: 0,0:02:25.28,0:02:33.04,Default,Touko,0,0,0,,Still, there are all sorts of delusions, and if you try to "pin" one of them onto someone, you may start pinning other ones on that person, too.

@@ -9,8 +9,7 @@ YCbCr Matrix: None
 
 [Aegisub Project Garbage]
 Audio File: Cou007.mp4
-Scroll Position: 34
-Active Line: 37
+Active Line: 12
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -18,19 +17,19 @@ Style: Default,Arial,14,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
-Dialogue: 0,0:00:00.50,0:00:02.57,Default,Lain,0,0,0,,What is college like?
-Dialogue: 0,0:00:03.24,0:00:05.93,Default,Touko,0,0,0,,You’re in junior high school now aren’t you, Lain?
+Dialogue: 0,0:00:00.50,0:00:02.57,Default,Lain,0,0,0,,What is university like?
+Dialogue: 0,0:00:03.24,0:00:05.93,Default,Touko,0,0,0,,You’re in junior high school now, aren’t you, Lain?
 Dialogue: 0,0:00:06.62,0:00:09.98,Default,Touko,0,0,0,,So if you’re in junior high and want to keep studying, you go to high school, right?
-Dialogue: 0,0:00:10.50,0:00:14.05,Default,Touko,0,0,0,,College is where people go if they want to keep studying after high school.
+Dialogue: 0,0:00:10.50,0:00:14.05,Default,Touko,0,0,0,,University is where people go if they want to keep studying after high school.
 Dialogue: 0,0:00:14.45,0:00:16.18,Default,Lain,0,0,0,,Do you like to study, Sensei?
 Dialogue: 0,0:00:16.65,0:00:18.38,Default,Touko,0,0,0,,I didn’t used to.
 Dialogue: 0,0:00:19.42,0:00:24.36,Default,Touko,0,0,0,,But I went to America as an exchange student when I was in junior high school, and I started to feel differently then.
 Dialogue: 0,0:00:24.76,0:00:27.16,Default,Lain,0,0,0,,You were an exchange student. Wow!
 Dialogue: 0,0:00:27.46,0:00:32.34,Default,Touko,0,0,0,,At the time, I just went because my parents wanted me to.
 Dialogue: 0,0:00:33.20,0:00:38.85,Default,Touko,0,0,0,,But people have different ways of seeing things in other countries, and I learned a lot from that.
-Dialogue: 0,0:00:40.04,0:00:47.93,Default,Touko,0,0,0,,Looking back, it was a lot of work, and at first, I was very nervous, but now I’m really grateful that I was able to be an exchange student.
+Dialogue: 0,0:00:40.04,0:00:47.93,Default,Touko,0,0,0,,Looking back, it was a lot of work, and I was very nervous at first, but now I’m really grateful that I was able to be an exchange student.
 Dialogue: 0,0:00:49.12,0:00:51.73,Default,Touko,0,0,0,,I learned English, too.
-Dialogue: 0,0:00:52.24,0:00:54.01,Default,Lain,0,0,0,,That’s amazing, Touko Sensei!
+Dialogue: 0,0:00:52.24,0:00:54.01,Default,Lain,0,0,0,,That’s amazing, Touko-sensei!
 Dialogue: 0,0:00:54.01,0:00:55.56,Default,Touko,0,0,0,,Oh, it’s not so amazing.
 Dialogue: 0,0:00:55.89,0:00:59.41,Default,Touko,0,0,0,,There are lots of people who have studied much more than I have.
 Dialogue: 0,0:01:00.06,0:01:02.82,Default,Touko,0,0,0,,I’m really a pretty lazy person.
