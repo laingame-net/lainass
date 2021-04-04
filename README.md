@@ -18,7 +18,7 @@ All files are currently done in english. The [spreadsheet](https://docs.google.c
 
 ## More info
 #### .vtt directory
-Those are stored in a seperate repo at [lelenium/lainvtt](https://github.com/lelenium/lainvtt)
+Those are stored in a seperate repo at [lelenium/lainTSX-subtitles](https://github.com/lelenium/lainTSX-subtitles/tree/master/src/static/media/webvtt), before being pulled to the main repo.
 #### Why are some numbers missing?
 Not all entries have a spoken word in it.
 #### Where are the videos?
