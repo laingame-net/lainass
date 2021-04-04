@@ -9,8 +9,7 @@ YCbCr Matrix: None
 
 [Aegisub Project Garbage]
 Audio File: Cou011.mp4
-Scroll Position: 9
-Active Line: 38
+Active Line: 12
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -28,8 +27,8 @@ Dialogue: 0,0:00:13.57,0:00:14.17,Default,Touko,0,0,0,,Okay?
 Dialogue: 0,0:00:15.90,0:00:18.93,Default,Touko,0,0,0,,But since you came all the way out here, how about a cup of tea or something?
 Dialogue: 0,0:00:20.28,0:00:21.10,Default,Touko,0,0,0,,What would you like?
 Dialogue: 0,0:00:21.86,0:00:23.49,Default,Touko,0,0,0,,Don’t be shy.
-Dialogue: 0,0:00:25.56,0:00:35.53,Default,Lain,0,0,0,,I want to talk.
-Dialogue: 0,0:00:35.74,0:00:37.78,Default,Touko,0,0,0,,You don’t have to force yourself. That might make you feel even worse. Take my word for it.
+Dialogue: 0,0:00:24.74,0:00:25.30,Default,Lain,0,0,0,,I wanna do it.
+Dialogue: 0,0:00:25.66,0:00:34.96,Default,Touko,0,0,0,,You don’t have to force yourself. That might make you feel even worse. Take my word for it.
 Dialogue: 0,0:00:35.74,0:00:37.78,Default,Lain,0,0,0,,I want to be cured.
 Dialogue: 0,0:00:38.46,0:00:42.25,Default,Touko,0,0,0,,Cured... But you’re not sick, Lain.
 Dialogue: 0,0:00:42.52,0:00:44.25,Default,Lain,0,0,0,,But this is a hospital, isn’t it?
@@ -39,9 +38,9 @@ Dialogue: 0,0:00:55.97,0:00:59.78,Default,Touko,0,0,0,,My hunch is that you are 
 Dialogue: 0,0:01:00.69,0:01:06.64,Default,Touko,0,0,0,,Still, if you aren’t feeling well or are worried about something, I’d like to be able to help you.
 Dialogue: 0,0:01:07.25,0:01:09.96,Default,Lain,0,0,0,,I’m not sick?
 Dialogue: 0,0:01:10.44,0:01:15.01,Default,Touko,0,0,0,,Right now, I’m not completely sure, but you’re probably just fine.
-Dialogue: 0,0:01:15.85,0:01:19.78,Default,Touko,0,0,0,,Even if you are sick, I’ll make sure that you are cured.
-Dialogue: 0,0:01:19.92,0:01:20.89,Default,Lain,0,0,0,,You’re absolutely sure you can cure me?
-Dialogue: 0,0:01:20.89,0:01:23.84,Default,Touko,0,0,0,,Absolutely. I will not let you be sick.
+Dialogue: 0,0:01:15.85,0:01:19.56,Default,Touko,0,0,0,,Even if you are sick, I’ll make sure that you are cured.
+Dialogue: 0,0:01:19.87,0:01:21.08,Default,Lain,0,0,0,,You’re absolutely sure you can cure me?
+Dialogue: 0,0:01:21.08,0:01:23.84,Default,Touko,0,0,0,,Absolutely. I will not let you be sick.
 Dialogue: 0,0:01:24.32,0:01:30.18,Default,Lain,0,0,0,,Sensei, why are you so kind to me? Is it because it is your job?
 Dialogue: 0,0:01:30.76,0:01:34.34,Default,Touko,0,0,0,,Hmm... You’re right that this is a part of my work.
 Dialogue: 0,0:01:34.94,0:01:40.32,Default,Touko,0,0,0,,But it’s a type of work that’s hard to see as just work.

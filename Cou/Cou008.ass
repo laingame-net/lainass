@@ -9,7 +9,8 @@ YCbCr Matrix: None
 
 [Aegisub Project Garbage]
 Audio File: Cou008.mp4
-Active Line: 10
+Scroll Position: 6
+Active Line: 12
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -24,12 +25,12 @@ Dialogue: 0,0:00:12.74,0:00:15.58,Default,Touko,0,0,0,,There’s no reason to ap
 Dialogue: 0,0:00:15.58,0:00:18.44,Default,Touko,0,0,0,,I was the one who asked you a bad question.
 Dialogue: 0,0:00:19.14,0:00:20.37,Default,Touko,0,0,0,,Can you forgive me?
 Dialogue: 0,0:00:21.56,0:00:23.38,Default,Touko,0,0,0,,...thank you.
-Dialogue: 0,0:00:24.41,0:00:30.13,Default,Touko,0,0,0,,So I thought we could work with this today. Can we talk about this?
+Dialogue: 0,0:00:24.41,0:00:30.13,Default,Touko,0,0,0,,So I thought we could talk about what we see on these pictures today.
 Dialogue: 0,0:00:31.41,0:00:34.05,Default,Lain,0,0,0,,They had that at the last hospital.
 Dialogue: 0,0:00:34.74,0:00:38.24,Default,Touko,0,0,0,,Really? I wanted to play with this.
 Dialogue: 0,0:00:39.06,0:00:40.93,Default,Lain,0,0,0,,That's some kind of test, isn't it?
 Dialogue: 0,0:00:41.38,0:00:44.29,Default,Touko,0,0,0,,Amazing Lain! Do you know about it?
-Dialogue: 0,0:00:44.80,0:00:48.21,Default,Touko,0,0,0,,They call this a Rorschach Test.
+Dialogue: 0,0:00:44.80,0:00:48.21,Default,Touko,0,0,0,,They call this a Rorschach test.
 Dialogue: 0,0:00:49.12,0:00:52.28,Default,Touko,0,0,0,,This isn’t really a test.
 Dialogue: 0,0:00:52.85,0:00:55.44,Default,Touko,0,0,0,,Think of it as a game.
 Dialogue: 0,0:00:56.09,0:00:57.81,Default,Lain,0,0,0,,But that’s boring.
