@@ -9,8 +9,7 @@ YCbCr Matrix: None
 
 [Aegisub Project Garbage]
 Audio File: Cou010.mp4
-Scroll Position: 9
-Active Line: 34
+Active Line: 8
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -25,7 +24,7 @@ Dialogue: 0,0:00:08.74,0:00:18.82,Default,Touko,0,0,0,,If you're a kid with an a
 Dialogue: 0,0:00:19.12,0:00:20.48,Default,Lain,0,0,0,,But that's not the case.
 Dialogue: 0,0:00:21.36,0:00:25.24,Default,Touko,0,0,0,,Do you dislike being different from others?
 Dialogue: 0,0:00:25.94,0:00:27.28,Default,Lain,0,0,0,,I’m not sure.
-Dialogue: 0,0:00:27.48,0:00:28.32,Default,Touko,0,0,0,,Okay?
+Dialogue: 0,0:00:27.65,0:00:28.25,Default,Touko,0,0,0,,Okay.
 Dialogue: 0,0:00:28.72,0:00:30.92,Default,Touko,0,0,0,,Lain is Lain because she is different.
 Dialogue: 0,0:00:31.69,0:00:37.20,Default,Touko,0,0,0,,You have a very strong imagination, and that’s a good thing.
 Dialogue: 0,0:00:37.56,0:00:40.33,Default,Touko,0,0,0,,So don’t say that you're weird.
@@ -52,7 +51,7 @@ Dialogue: 0,0:02:13.72,0:02:14.97,Default,Lain,0,0,0,,One thousand needles?
 Dialogue: 0,0:02:15.26,0:02:17.86,Default,Touko,0,0,0,,Don’t kids your age know that?
 Dialogue: 0,0:02:18.66,0:02:26.52,Default,Touko,0,0,0,,When I was a kid, whenever we made a promise, we said, "If I break the promise, I will drink 1000 needles."
 Dialogue: 0,0:02:26.93,0:02:27.77,Default,Lain,0,0,0,,Wouldn’t that hurt?
-Dialogue: 0,0:02:27.77,0:02:37.74,Default,Touko,0,0,0,,A lot!... Right! How many needles are in my stomach right now? Miss Iwakura?... I was made to drink them 5 times.
+Dialogue: 0,0:02:27.77,0:02:37.74,Default,Touko,0,0,0,,A lot!... Right! How many needles are in my stomach right now? Miss Iwakura? ...I was made to drink them 5 times.
 Dialogue: 0,0:02:38.20,0:02:39.10,Default,Lain,0,0,0,,...five thousand?
 Dialogue: 0,0:02:39.10,0:02:44.61,Default,Touko,0,0,0,,Wrong! Yesterday, since I went to the bathroom and flushed everything out, there’s zero!
 Dialogue: 0,0:02:44.93,0:02:48.42,Default,Lain,0,0,0,,Sensei, that's gross!...

@@ -9,7 +9,7 @@ YCbCr Matrix: None
 
 [Aegisub Project Garbage]
 Audio File: Dia002.mp4
-Active Line: 5
+Active Line: 1
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -17,8 +17,8 @@ Style: Default,Arial,14,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
-Dialogue: 0,0:00:01.16,0:00:04.90,Default,Touko,0,0,0,,She hasn’t had any significant problems from the time of birth.
-Dialogue: 0,0:00:05.16,0:00:09.78,Default,Touko,0,0,0,,Even at this point, she doesn’t have any bad habits or problems with truancy.
+Dialogue: 0,0:00:01.16,0:00:04.90,Default,Touko,0,0,0,,She hasn’t had any significant problems since birth.
+Dialogue: 0,0:00:05.16,0:00:09.78,Default,Touko,0,0,0,,Even now, she doesn’t have any bad habits or problems with truancy.
 Dialogue: 0,0:00:10.70,0:00:16.02,Default,Touko,0,0,0,,She does not seem to have a troubled history.
 Dialogue: 0,0:00:16.38,0:00:20.74,Default,Touko,0,0,0,,Of course, at this research center, accompanying illnesses must be treated.
 Dialogue: 0,0:00:22.62,0:00:31.66,Default,Touko,0,0,0,,I wanted to ask her about her illness history when I started counseling her, but she was very shy.

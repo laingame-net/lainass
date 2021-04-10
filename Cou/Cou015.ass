@@ -9,7 +9,7 @@ YCbCr Matrix: None
 
 [Aegisub Project Garbage]
 Audio File: Cou015.mp4
-Active Line: 4
+Active Line: 26
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -43,8 +43,7 @@ Dialogue: 0,0:01:15.38,0:01:16.01,Default,Touko,0,0,0,,Right.
 Dialogue: 0,0:01:16.61,0:01:21.08,Default,Touko,0,0,0,,People around your age can get unsure about that.
 Dialogue: 0,0:01:22.18,0:01:32.34,Default,Touko,0,0,0,,They ask themselves "what kind of person am I?" Boys sometimes think that they are heroes and that they will accomplish some superhuman feat someday.
 Dialogue: 0,0:01:32.77,0:01:36.90,Default,Touko,0,0,0,,Girls sometimes imagine that they don't belong with their own families.
-Dialogue: 0,0:01:37.13,0:01:43.33,Default,Touko,0,0,0,,They think instead that they are members of a rich elite family, and that a prince on a white steed will come one day to take them away.
-Dialogue: 0,0:01:43.45,0:01:45.05,Default,Touko,0,0,0,,Kids your age sometimes believe these things for real.
+Dialogue: 0,0:01:37.13,0:01:44.90,Default,Touko,0,0,0,,They think instead that they are members of a rich elite family, and that a prince on a white steed will surely come one day to take them away.
 Dialogue: 0,0:01:45.84,0:01:50.26,Default,Lain,0,0,0,,I don’t feel that way. I think that I’m just me.
 Dialogue: 0,0:01:50.86,0:01:56.40,Default,Touko,0,0,0,,But It’s hard to tell what you are just by yourself, isn’t it?
 Dialogue: 0,0:01:57.28,0:02:05.01,Default,Touko,0,0,0,,When I was younger, I thought that there was a different me, and that somehow I wasn't the person I was at the time.

@@ -9,8 +9,8 @@ YCbCr Matrix: None
 
 [Aegisub Project Garbage]
 Audio File: Cou020.mp4
-Scroll Position: 27
-Active Line: 37
+Scroll Position: 4
+Active Line: 5
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -23,7 +23,7 @@ Dialogue: 0,0:00:01.84,0:00:03.83,Default,Lain,0,0,0,,Good morning, Touko-san.
 Dialogue: 0,0:00:03.83,0:00:05.91,Default,Touko,0,0,0,,Have you seen anything since then?
 Dialogue: 0,0:00:06.36,0:00:09.49,Default,Lain,0,0,0,,No, I haven’t. Honestly.
 Dialogue: 0,0:00:09.87,0:00:11.16,Default,Touko,0,0,0,,Have you heard anything?
-Dialogue: 0,0:00:11.64,0:00:15.30,Default,Lain,0,0,0,,Sometimes I hear something very confused.
+Dialogue: 0,0:00:11.64,0:00:15.30,Default,Lain,0,0,0,,Sometimes I hear gibberish.
 Dialogue: 0,0:00:15.87,0:00:20.15,Default,Touko,0,0,0,,Very confused? One person? More than one?
 Dialogue: 0,0:00:20.55,0:00:24.77,Default,Lain,0,0,0,,More than one. Men and women.
 Dialogue: 0,0:00:24.77,0:00:26.77,Default,Touko,0,0,0,,Are they people you know?
@@ -46,7 +46,7 @@ Dialogue: 0,0:01:18.79,0:01:19.55,Default,Touko,0,0,0,,But...
 Dialogue: 0,0:01:19.85,0:01:20.63,Default,Lain,0,0,0,,But?
 Dialogue: 0,0:01:21.10,0:01:25.52,Default,Touko,0,0,0,,Most of the time, you will hear things that are related to you, to some extent.
 Dialogue: 0,0:01:26.05,0:01:28.70,Default,Touko,0,0,0,,For instance, they hear voices that bad-mouth them.
-Dialogue: 0,0:01:29.25,0:01:30.57,Default,Lain,0,0,0,,Delusion of persecution?
+Dialogue: 0,0:01:29.25,0:01:30.57,Default,Lain,0,0,0,,Paranoia?
 Dialogue: 0,0:01:30.57,0:01:31.36,Default,Touko,0,0,0,,Right.
 Dialogue: 0,0:01:32.11,0:01:34.47,Default,Touko,0,0,0,,You’ve been studying up on this stuff.
 Dialogue: 0,0:01:35.74,0:01:38.73,Default,Touko,0,0,0,,Ok. I’ll fill you in a little more on this.

@@ -9,7 +9,7 @@ YCbCr Matrix: None
 
 [Aegisub Project Garbage]
 Audio File: Cou017.mp4
-Active Line: 5
+Active Line: 21
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -38,7 +38,7 @@ Dialogue: 0,0:01:21.66,0:01:23.09,Default,Touko,0,0,0,,I cried.
 Dialogue: 0,0:01:24.09,0:01:25.34,Default,Touko,0,0,0,,I felt so bad.
 Dialogue: 0,0:01:26.09,0:01:27.56,Default,Touko,0,0,0,,I though you didn’t like me anymore.
 Dialogue: 0,0:01:28.93,0:01:31.06,Default,Lain,0,0,0,,Touko-san, don’t cry.
-Dialogue: 0,0:01:31.20,0:01:38.44,Default,Touko,0,0,0,,Oh.. It’s so silly of me to cry over this. I’m sorry, Lain.
+Dialogue: 0,0:01:31.20,0:01:38.44,Default,Touko,0,0,0,,Oh... It’s so silly of me to cry over this. I’m sorry, Lain.
 Dialogue: 0,0:01:39.18,0:01:40.49,Default,Lain,0,0,0,,Don’t cry.
 Dialogue: 0,0:01:41.38,0:01:47.60,Default,Touko,0,0,0,,These are tears of joy, Lain. I’m so glad.
 Dialogue: 0,0:01:49.06,0:01:50.25,Default,Lain,0,0,0,,Joy?
