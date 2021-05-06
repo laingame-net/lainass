@@ -9,7 +9,7 @@ YCbCr Matrix: None
 
 [Aegisub Project Garbage]
 Audio File: Tda025.mp4
-Active Line: 3
+Active Line: 9
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -22,8 +22,8 @@ Dialogue: 0,0:00:02.40,0:00:06.12,Default,Touko,0,0,0,,Tomorrow I’ll have my f
 Dialogue: 0,0:00:06.30,0:00:07.30,Default,Touko,0,0,0,,I’m so excited.
 Dialogue: 0,0:00:07.61,0:00:08.57,Default,Touko,0,0,0,,What should I wear?
 Dialogue: 0,0:00:09.63,0:00:15.13,Default,Touko,0,0,0,,I better not wear anything too flashy, or there will be more rumors about me.
-Dialogue: 0,0:00:17.61,0:00:22.47,Default,Touko,0,0,0,,I haven’t bought many clothes lately.
-Dialogue: 0,0:00:23.30,0:00:26.28,Default,Touko,0,0,0,,It's hard to go buy clothes at this time of day.
-Dialogue: 0,0:00:28.79,0:00:31.32,Default,Touko,0,0,0,,I can’t go buy clothes during my date.
-Dialogue: 0,0:00:32.08,0:00:34.26,Default,Touko,0,0,0,,I can’t do that in front of Takeshi-san.
-Dialogue: 0,0:00:34.68,0:00:37.14,Default,Touko,0,0,0,,I don’t want him to get a bad impression about me.
+Dialogue: 0,0:00:17.61,0:00:22.47,Default,Touko,0,0,0,,I haven't bought clothes in a long time... or underwear.
+Dialogue: 0,0:00:23.30,0:00:26.28,Default,Touko,0,0,0,,Not that I can even buy clothes at this time of day.
+Dialogue: 0,0:00:28.79,0:00:31.32,Default,Touko,0,0,0,,But I can't just buy clothes in the middle of a date, either!
+Dialogue: 0,0:00:32.08,0:00:34.26,Default,Touko,0,0,0,,Not in front of Takeshi.
+Dialogue: 0,0:00:34.68,0:00:37.14,Default,Touko,0,0,0,,He'll start to think of me as that kind of girl.

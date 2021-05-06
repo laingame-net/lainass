@@ -9,8 +9,8 @@ YCbCr Matrix: None
 
 [Aegisub Project Garbage]
 Audio File: Cou012.mp4
-Scroll Position: 18
-Active Line: 34
+Scroll Position: 11
+Active Line: 12
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -30,7 +30,7 @@ Dialogue: 0,0:00:41.22,0:00:47.14,Default,Touko,0,0,0,,Anyway, if you start diag
 Dialogue: 0,0:00:48.42,0:00:53.04,Default,Lain,0,0,0,,I just wanted to know... what's going on with me.
 Dialogue: 0,0:00:54.32,0:00:55.30,Default,Touko,0,0,0,,I see.
 Dialogue: 0,0:00:55.49,0:00:56.66,Default,Touko,0,0,0,,I understand.
-Dialogue: 0,0:00:57.40,0:00:59.26,Default,Touko,0,0,0,,I think you’re intentions are right.
+Dialogue: 0,0:00:57.40,0:00:59.26,Default,Touko,0,0,0,,I think your intentions are right.
 Dialogue: 0,0:01:00.89,0:01:03.22,Default,Touko,0,0,0,,But I’d like to ask something of you.
 Dialogue: 0,0:01:04.00,0:01:11.89,Default,Touko,0,0,0,,Please don’t go around prying… investigating, for things that you think are wrong with you.
 Dialogue: 0,0:01:12.10,0:01:13.21,Default,Touko,0,0,0,,Can I ask that of you?

@@ -10,7 +10,7 @@ YCbCr Matrix: None
 [Aegisub Project Garbage]
 Audio File: Ere009.mp4
 Scroll Position: 6
-Active Line: 7
+Active Line: 15
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -27,11 +27,10 @@ Dialogue: 0,0:00:13.35,0:00:17.20,Default,Touko,0,0,0,,I just want to know more 
 Dialogue: 0,0:00:17.73,0:00:19.07,Default,Touko,0,0,0,,She’s a very nice girl.
 Dialogue: 0,0:00:19.08,0:00:22.99,Default,Touko,0,0,0,,She’s the kind of girl that keeps quiet even when something is bothering her, so that she doesn’t worry other people, isn’t she?
 Dialogue: 0,0:00:23.01,0:00:23.90,Default,Girl,0,0,0,,You’re right.
-Dialogue: 0,0:00:23.92,0:00:25.82,Default,Girl,0,0,0,,She is that way.
-Dialogue: 0,0:00:28.07,0:00:33.15,Default,Girl,0,0,0,,I remember too, that once when I tried to buy a treat for her for helping me with my homework, she refused.
-Dialogue: 0,0:00:33.44,0:00:35.05,Default,Girl,0,0,0,,I was a bit irritated.
+Dialogue: 0,0:00:23.92,0:00:25.82,Default,Girl,0,0,0,,She is like that.
+Dialogue: 0,0:00:28.07,0:00:33.15,Default,Girl,0,0,0,,I remember too, that once when I tried to buy her a treat for helping me with my homework, she refused.
+Dialogue: 0,0:00:33.44,0:00:35.05,Default,Girl,0,0,0,,I was a little annoyed.
 Dialogue: 0,0:00:35.42,0:00:37.85,Default,Girl,0,0,0,,Lain hasn’t been bullied at school, though.
 Dialogue: 0,0:00:37.94,0:00:40.05,Default,Girl,0,0,0,,The kids there aren’t so bad there.
 Dialogue: 0,0:00:40.29,0:00:41.21,Default,Touko,0,0,0,,Really?
-Dialogue: 0,0:00:41.33,0:00:46.70,Default,Girl,0,0,0,,Well, sure. Do you doubt me? I don’t get bullied either. Ha, ha.
-Dialogue: 0,0:00:46.70,0:00:48.70,Default,,0,0,0,,
+Dialogue: 0,0:00:41.33,0:00:46.70,Default,Girl,0,0,0,,Well, sure. You don't believe me? I don’t get bullied either. Ha, ha.

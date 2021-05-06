@@ -9,8 +9,8 @@ YCbCr Matrix: None
 
 [Aegisub Project Garbage]
 Audio File: Cou014.mp4
-Scroll Position: 5
-Active Line: 20
+Scroll Position: 1
+Active Line: 8
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -18,7 +18,7 @@ Style: Default,Arial,14,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
-Dialogue: 0,0:00:00.76,0:00:06.85,Default,Touko,0,0,0,,There are many people who have had experienced kanashibari, but we don’t call them "sick."
+Dialogue: 0,0:00:00.76,0:00:06.85,Default,Touko,0,0,0,,There are many people who have had experienced sleep paralysis, but we don’t call them "sick."
 Dialogue: 0,0:00:07.85,0:00:08.74,Default,Lain,0,0,0,,But...
 Dialogue: 0,0:00:09.05,0:00:13.50,Default,Touko,0,0,0,,Hmm... there might be only a few people who have experienced what you have.
 Dialogue: 0,0:00:14.14,0:00:16.93,Default,Touko,0,0,0,,Still, I don’t think you should be called "sick" just because of your experiences.
@@ -26,7 +26,7 @@ Dialogue: 0,0:00:17.78,0:00:22.26,Default,Touko,0,0,0,,A lot of things can happe
 Dialogue: 0,0:00:22.97,0:00:26.85,Default,Lain,0,0,0,,But I’m scared and I hate this.
 Dialogue: 0,0:00:28.01,0:00:30.02,Default,Touko,0,0,0,,What's so scary about your dream?
 Dialogue: 0,0:00:30.57,0:00:35.34,Default,Lain,0,0,0,,I start to feel that I don't belong. Like I am an unneeded thing.
-Dialogue: 0,0:00:35.72,0:00:37.17,Default,Touko,0,0,0,,You "don't belong?"
+Dialogue: 0,0:00:35.72,0:00:37.17,Default,Touko,0,0,0,,You "don't belong"?
 Dialogue: 0,0:00:37.62,0:00:42.17,Default,Lain,0,0,0,,I feel that I am being told to come back because I’m unneeded.
 Dialogue: 0,0:00:43.18,0:00:45.16,Default,Touko,0,0,0,,Come back? Come back where?
 Dialogue: 0,0:00:45.34,0:00:46.48,Default,Lain,0,0,0,,To myself.

@@ -9,8 +9,7 @@ YCbCr Matrix: None
 
 [Aegisub Project Garbage]
 Audio File: Cou002.mp4
-Scroll Position: 12
-Active Line: 15
+Active Line: 7
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -24,8 +23,7 @@ Dialogue: 0,0:00:06.20,0:00:07.42,Default,Touko,0,0,0,,How is it?
 Dialogue: 0,0:00:08.70,0:00:11.54,Default,Touko,0,0,0,,Looks as if you don’t like it, huh?
 Dialogue: 0,0:00:11.98,0:00:12.82,Default,Touko,0,0,0,,Too bitter?
 Dialogue: 0,0:00:12.82,0:00:14.76,Default,Touko,0,0,0,,What if you add some sugar?
-Dialogue: 0,0:00:14.76,0:00:16.60,Default,Touko,0,0,0,,Well, how about if you add some milk?
-Dialogue: 0,0:00:16.60,0:00:18.72,Default,Touko,0,0,0,,It might take away the bitterness.
+Dialogue: 0,0:00:14.76,0:00:18.72,Default,Touko,0,0,0,,Well, how about if you add some milk? It might take away the bitterness.
 Dialogue: 0,0:00:19.28,0:00:21.10,Default,Touko,0,0,0,,Or I can get you something else?
 Dialogue: 0,0:00:21.92,0:00:23.32,Default,Lain,0,0,0,,I don’t like milk.
 Dialogue: 0,0:00:23.72,0:00:31.44,Default,Touko,0,0,0,,Ah, sorry. I didn’t know... Well, how about if I get some juice for you?

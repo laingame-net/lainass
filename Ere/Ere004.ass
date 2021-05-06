@@ -9,8 +9,7 @@ YCbCr Matrix: None
 
 [Aegisub Project Garbage]
 Audio File: Ere004.mp4
-Scroll Position: 1
-Active Line: 10
+Active Line: 8
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -22,10 +21,10 @@ Dialogue: 0,0:00:00.81,0:00:08.89,Default,Kyoko,0,0,0,,I don’t dislike Lain. B
 Dialogue: 0,0:00:08.89,0:00:09.78,Default,Touko,0,0,0,,I know what you mean.
 Dialogue: 0,0:00:09.78,0:00:10.86,Default,Kyoko,0,0,0,,Don’t you, though?
 Dialogue: 0,0:00:10.86,0:00:14.31,Default,Kyoko,0,0,0,,I think a lot of the kids see her that way.
-Dialogue: 0,0:00:14.31,0:00:19.06,Default,Kyoko,0,0,0,,No one is bullying her, now, but most of us are pretty indifferent to her.
+Dialogue: 0,0:00:14.31,0:00:19.06,Default,Kyoko,0,0,0,,No one is bullying her, now, but most of us pretty much ignore her.
 Dialogue: 0,0:00:19.06,0:00:20.67,Default,Touko,0,0,0,,Yeah.
-Dialogue: 0,0:00:20.67,0:00:25.53,Default,Kyoko,0,0,0,,You ought to talk to her. Tell her to laugh the way she used to.
+Dialogue: 0,0:00:20.67,0:00:25.53,Default,Kyoko,0,0,0,,You should talk to her. Tell her to laugh the way she used to.
 Dialogue: 0,0:00:25.53,0:00:26.69,Default,Touko,0,0,0,,The way she used to?
-Dialogue: 0,0:00:27.18,0:00:30.02,Default,Kyoko,0,0,0,,In the old memories I have of her, she was always smiling.
+Dialogue: 0,0:00:27.18,0:00:30.02,Default,Kyoko,0,0,0,,In my old memories, she was always smiling.
 Dialogue: 0,0:00:30.56,0:00:33.49,Default,Kyoko,0,0,0,,I remember that when we were together, she would always laugh.
 Dialogue: 0,0:00:33.92,0:00:39.65,Default,Touko,0,0,0,,I see. I sort of had that impression. That’s why I was concerned.
