@@ -18,44 +18,44 @@ Style: Default,Arial,14,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
-Dialogue: 0,0:00:00.41,0:00:03.74,Default,Lain,0,0,0,,Touko-san, deja vu isn’t an illness, is it?
-Dialogue: 0,0:00:04.81,0:00:05.16,Default,Touko,0,0,0,,No.
+Dialogue: 0,0:00:00.53,0:00:03.92,Default,Lain,0,0,0,,Touko-san, deja vu isn’t an illness, is it?
+Dialogue: 0,0:00:04.95,0:00:05.60,Default,Touko,0,0,0,,No.
 Dialogue: 0,0:00:05.77,0:00:10.92,Default,Touko,0,0,0,,You may also feel it’s the first time you’ve seen a scene which you’ve seen before.
-Dialogue: 0,0:00:11.53,0:00:14.29,Default,Touko,0,0,0,,Both situations have nothing to do with a disease.
-Dialogue: 0,0:00:15.09,0:00:18.84,Default,Touko,0,0,0,,Even normal people sometimes have an experience of deja vu.
-Dialogue: 0,0:00:19.58,0:00:21.84,Default,Lain,0,0,0,,What a relief! I feel better now.
-Dialogue: 0,0:00:23.09,0:00:26.89,Default,Touko,0,0,0,,Do you feel anything else when you experience deja vu?
-Dialogue: 0,0:00:28.17,0:00:35.08,Default,Lain,0,0,0,,Time is strange for some reason. I can’t figure out if time is fast or slow.
-Dialogue: 0,0:00:36.38,0:00:39.98,Default,Touko,0,0,0,,Do you feel it’s real or kind of ordinary?
-Dialogue: 0,0:00:40.82,0:00:47.05,Default,Lain,0,0,0,,Well, it could be... or could not be... I don’t know... maybe not...
-Dialogue: 0,0:00:47.77,0:00:51.50,Default,Touko,0,0,0,,Is it nebulous? Or you just can’t comprehend...
-Dialogue: 0,0:00:51.98,0:00:54.72,Default,Lain,0,0,0,,I just feel something is different.
-Dialogue: 0,0:00:55.61,0:01:03.85,Default,Lain,0,0,0,,Even though I recognize that I am playing in my house, I feel like it isn’t my house.
-Dialogue: 0,0:01:04.50,0:01:11.34,Default,Lain,0,0,0,,And even though I don’t know where it is, when I play at a park that I’ve never seen, for me it seems like the place I usually go.
-Dialogue: 0,0:01:11.89,0:01:18.18,Default,Touko,0,0,0,,Strange... Do you feel comfortable or uneasy when you are there?
-Dialogue: 0,0:01:19.10,0:01:22.81,Default,Lain,0,0,0,,I don’t know, but Lain was laughing when it happened.
-Dialogue: 0,0:01:24.30,0:01:27.33,Default,Touko,0,0,0,,Not yourself, but Lain?
-Dialogue: 0,0:01:28.13,0:01:31.78,Default,Lain,0,0,0,,I can’t explain very well, but it was Lain.
-Dialogue: 0,0:01:33.17,0:01:35.76,Default,Touko,0,0,0,,Where were you at that time?
-Dialogue: 0,0:01:36.37,0:01:41.81,Default,Lain,0,0,0,,Let’s see... I don’t know, because I was just watching her...
-Dialogue: 0,0:01:42.14,0:01:44.80,Default,Touko,0,0,0,,I mean, where from did you observe her?
-Dialogue: 0,0:01:45.49,0:01:49.92,Default,Touko,0,0,0,,Like, were you standing on the ground, or you could you see her from the sky...?
+Dialogue: 0,0:00:11.68,0:00:14.53,Default,Touko,0,0,0,,Both situations have nothing to do with a disease.
+Dialogue: 0,0:00:15.22,0:00:19.07,Default,Touko,0,0,0,,Even normal people sometimes have an experience of deja vu.
+Dialogue: 0,0:00:19.71,0:00:22.12,Default,Lain,0,0,0,,What a relief! I feel better now.
+Dialogue: 0,0:00:23.16,0:00:27.08,Default,Touko,0,0,0,,Do you feel anything else when you experience deja vu?
+Dialogue: 0,0:00:28.32,0:00:35.14,Default,Lain,0,0,0,,Time is strange for some reason. I can’t figure out if time is fast or slow.
+Dialogue: 0,0:00:36.53,0:00:40.18,Default,Touko,0,0,0,,Do you feel it’s real or kind of ordinary?
+Dialogue: 0,0:00:40.92,0:00:47.21,Default,Lain,0,0,0,,Well, it could be... or could not be... I don’t know... maybe not...
+Dialogue: 0,0:00:47.88,0:00:51.59,Default,Touko,0,0,0,,Is it nebulous? Or you just can’t comprehend...
+Dialogue: 0,0:00:52.16,0:00:54.88,Default,Lain,0,0,0,,I just feel something is different.
+Dialogue: 0,0:00:55.70,0:01:03.95,Default,Lain,0,0,0,,Even though I recognize that I am playing in my house, I feel like it isn’t my house.
+Dialogue: 0,0:01:04.57,0:01:11.52,Default,Lain,0,0,0,,And even though I don’t know where it is, when I play at a park that I’ve never seen, for me it seems like the place I usually go.
+Dialogue: 0,0:01:12.01,0:01:18.36,Default,Touko,0,0,0,,Strange... Do you feel comfortable or uneasy when you are there?
+Dialogue: 0,0:01:19.16,0:01:22.96,Default,Lain,0,0,0,,I don’t know, but Lain was laughing when it happened.
+Dialogue: 0,0:01:24.50,0:01:27.50,Default,Touko,0,0,0,,Not yourself, but Lain?
+Dialogue: 0,0:01:28.27,0:01:31.92,Default,Lain,0,0,0,,I can’t explain very well, but it was Lain.
+Dialogue: 0,0:01:33.30,0:01:35.82,Default,Touko,0,0,0,,Where were you at that time?
+Dialogue: 0,0:01:36.89,0:01:42.01,Default,Lain,0,0,0,,Let’s see... I don’t know, because I was just watching her...
+Dialogue: 0,0:01:42.22,0:01:44.92,Default,Touko,0,0,0,,I mean, where from did you observe her?
+Dialogue: 0,0:01:45.61,0:01:49.92,Default,Touko,0,0,0,,Like, were you standing on the ground, or you could you see her from the sky...?
 Dialogue: 0,0:01:49.92,0:01:55.12,Default,Lain,0,0,0,,Well... I don’t know... It was like I saw myself on the TV... I guess...
-Dialogue: 0,0:01:55.12,0:01:59.72,Default,Touko,0,0,0,,Lain, are you all right? You don’t have to bring it back by force. I’m sorry.
-Dialogue: 0,0:02:00.06,0:02:05.61,Default,Touko,0,0,0,,I feel compelled to ask questions... Okay, that’s all for today!
-Dialogue: 0,0:02:06.06,0:02:09.08,Default,Lain,0,0,0,,How do you express it in technical jargon?
-Dialogue: 0,0:02:09.08,0:02:10.73,Default,Touko,0,0,0,,No, let’s stop for now.
-Dialogue: 0,0:02:11.50,0:02:14.17,Default,Lain,0,0,0,,I really want to know about myself!
-Dialogue: 0,0:02:15.10,0:02:17.85,Default,Touko,0,0,0,,Okay, so this is the last lesson.
-Dialogue: 0,0:02:18.97,0:02:28.52,Default,Touko,0,0,0,,In technical jargon, we call it "alienation of perception." It means that you experience something as if somebody else experienced it.
-Dialogue: 0,0:02:30.41,0:02:32.82,Default,Lain,0,0,0,,It’s an illness, isn’t it?
-Dialogue: 0,0:02:33.65,0:02:38.68,Default,Touko,0,0,0,,There is one called "depersonalization" which is that you cannot feel yourself, but you couldn’t have it.
-Dialogue: 0,0:02:39.10,0:02:43.10,Default,Touko,0,0,0,,So stop worrying about it.
-Dialogue: 0,0:02:43.50,0:02:45.64,Default,Lain,0,0,0,,You can’t prove that I don’t.
-Dialogue: 0,0:02:45.64,0:02:50.40,Default,Touko,0,0,0,,Yes, but it doesn’t worry you. So I can say that you’re not sick.
-Dialogue: 0,0:02:51.06,0:02:55.42,Default,Touko,0,0,0,,Well, I shouldn’t have said that; it just makes you worried.
-Dialogue: 0,0:02:56.12,0:02:57.60,Default,Touko,0,0,0,,I guess I made a mistake...
-Dialogue: 0,0:02:57.85,0:02:58.69,Default,Lain,0,0,0,,No, you didn’t.
-Dialogue: 0,0:02:59.25,0:03:04.88,Default,Lain,0,0,0,,You didn’t make any mistakes because I insisted that you should answer my question.
-Dialogue: 0,0:03:06.17,0:03:11.65,Default,Lain,0,0,0,,Still, I want to study a lot in order to be like you, Touko-san.
-Dialogue: 0,0:03:12.46,0:03:13.44,Default,Touko,0,0,0,,Lain...
+Dialogue: 0,0:01:55.25,0:01:59.92,Default,Touko,0,0,0,,Lain, are you all right? You don’t have to bring it back by force. I’m sorry.
+Dialogue: 0,0:02:00.20,0:02:05.61,Default,Touko,0,0,0,,I feel compelled to ask questions... Okay, that’s all for today!
+Dialogue: 0,0:02:06.19,0:02:09.08,Default,Lain,0,0,0,,How do you express it in technical jargon?
+Dialogue: 0,0:02:09.08,0:02:10.96,Default,Touko,0,0,0,,No, let’s stop for now.
+Dialogue: 0,0:02:11.57,0:02:14.38,Default,Lain,0,0,0,,I really want to know about myself!
+Dialogue: 0,0:02:15.20,0:02:18.04,Default,Touko,0,0,0,,Okay, so this is the last lesson.
+Dialogue: 0,0:02:19.08,0:02:28.77,Default,Touko,0,0,0,,In technical jargon, we call it "alienation of perception." It means that you experience something as if somebody else experienced it.
+Dialogue: 0,0:02:30.51,0:02:33.00,Default,Lain,0,0,0,,It’s an illness, isn’t it?
+Dialogue: 0,0:02:33.76,0:02:38.88,Default,Touko,0,0,0,,There is one called "depersonalization" which is that you cannot feel yourself, but you couldn’t have it.
+Dialogue: 0,0:02:39.22,0:02:43.29,Default,Touko,0,0,0,,So stop worrying about it.
+Dialogue: 0,0:02:43.77,0:02:45.64,Default,Lain,0,0,0,,You can’t prove that I don’t.
+Dialogue: 0,0:02:45.77,0:02:50.62,Default,Touko,0,0,0,,Yes, but it doesn’t worry you. So I can say that you’re not sick.
+Dialogue: 0,0:02:51.24,0:02:55.64,Default,Touko,0,0,0,,Well, I shouldn’t have said that; it just makes you worried.
+Dialogue: 0,0:02:56.20,0:02:57.76,Default,Touko,0,0,0,,I guess I made a mistake...
+Dialogue: 0,0:02:57.98,0:02:58.84,Default,Lain,0,0,0,,No, you didn’t.
+Dialogue: 0,0:02:59.41,0:03:05.12,Default,Lain,0,0,0,,You didn’t make any mistakes because I insisted that you should answer my question.
+Dialogue: 0,0:03:06.28,0:03:11.85,Default,Lain,0,0,0,,Still, I want to study a lot in order to be like you, Touko-san.
+Dialogue: 0,0:03:12.56,0:03:13.44,Default,Touko,0,0,0,,Lain...
