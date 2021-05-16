@@ -1,6 +1,8 @@
 # lainass
 Timed english subtitles for the game Serial Experiments Lain on PSX.
 (repo name accidental)
+
+***This is a FREE translation for fans, by fans. Intended for personal or private use only.***
 ## Translations
 [![Crowdin](https://badges.crowdin.net/lain-psx/localized.svg)](https://crowdin.com/project/lain-psx)
 
