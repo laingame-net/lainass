@@ -16,4 +16,5 @@ Style: Default,Arial,14,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
-Dialogue: 0,0:00:00.00,0:00:03.28,Default,Lain,0,0,0,,You want to be the same? Whom are you comparing with?
+Dialogue: 0,0:00:00.14,0:00:01.31,Default,Lain,0,0,0,,You want to be the same?
+Dialogue: 0,0:00:02.04,0:00:03.04,Default,Lain,0,0,0,,Same as who?
