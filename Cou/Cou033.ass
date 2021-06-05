@@ -9,7 +9,8 @@ YCbCr Matrix: None
 
 [Aegisub Project Garbage]
 Audio File: Cou033.mp4
-Active Line: 7
+Scroll Position: 30
+Active Line: 33
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -48,12 +49,12 @@ Dialogue: 0,0:02:19.34,0:02:24.06,Default,Touko,0,0,0,,We see the same things, h
 Dialogue: 0,0:02:24.96,0:02:26.63,Default,Touko,0,0,0,,Everything.
 Dialogue: 0,0:02:28.23,0:02:30.79,Default,Touko,0,0,0,,Even our looks are the same!
 Dialogue: 0,0:02:31.16,0:02:36.14,Default,Touko,0,0,0,,In this situation, there is only an identity that you KEEP, isn't there?
-Dialogue: 0,0:02:42.06,0:02:45.28,Default,Touko,0,0,0,,Yet even if such an identification is gone.
-Dialogue: 0,0:02:39.71,0:02:43.84,Default,Touko,0,0,0,,If you thought "Here is Lain," then I cannot exist there.
+Dialogue: 0,0:02:37.40,0:02:39.53,Default,Touko,0,0,0,,Yet even if such an identification is gone.
+Dialogue: 0,0:02:39.71,0:02:41.52,Default,Touko,0,0,0,,If you thought "Here is Lain," then I cannot exist there.
 Dialogue: 0,0:02:44.02,0:02:45.27,Default,Touko,0,0,0,,The same thing can happen to you!
 Dialogue: 0,0:02:46.59,0:02:49.84,Default,Touko,0,0,0,,That is why it’s impossible to understand each other at the same time.
 Dialogue: 0,0:02:50.92,0:02:54.20,Default,Lain,0,0,0,,But what if you would answer every question I ask.
-Dialogue: 0,0:02:55.00,0:02:55.86,Default,Lain,0,0,0,,Still, it would be impossible?
+Dialogue: 0,0:02:55.00,0:02:56.08,Default,Lain,0,0,0,,Still, it would be impossible?
 Dialogue: 0,0:02:56.74,0:02:59.60,Default,Touko,0,0,0,,Right, but they are not all possible questions, are they?
 Dialogue: 0,0:03:00.48,0:03:10.64,Default,Touko,0,0,0,,I need time to answer those questions and those answers could be changed eventually, such as I used to think one thing, but now I have changed my mind — something like that.
 Dialogue: 0,0:03:11.55,0:03:13.78,Default,Lain,0,0,0,,It's impossible after all, isn’t it?
