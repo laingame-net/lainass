@@ -9,7 +9,8 @@ YCbCr Matrix: None
 
 [Aegisub Project Garbage]
 Audio File: Cou015.mp4
-Active Line: 26
+Scroll Position: 12
+Active Line: 21
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -22,7 +23,7 @@ Dialogue: 0,0:00:03.46,0:00:07.72,Default,Lain,0,0,0,,I’m doing okay. How abou
 Dialogue: 0,0:00:07.88,0:00:14.88,Default,Touko,0,0,0,,Pretty much as always. I could use a little more time to calm down and think things over, though.
 Dialogue: 0,0:00:15.69,0:00:16.80,Default,Lain,0,0,0,,You’re very busy?
 Dialogue: 0,0:00:16.96,0:00:24.69,Default,Touko,0,0,0,,Yes... Ha, ha. Now our roles are reversed. I feel like you are counseling me.
-Dialogue: 0,0:00:24.90,0:00:25.53,Default,Lain,0,0,0,,Ha, ha
+Dialogue: 0,0:00:24.90,0:00:25.53,Default,Lain,0,0,0,,Ha, ha.
 Dialogue: 0,0:00:25.53,0:00:30.82,Default,Touko,0,0,0,,Ha, ha. By the way, what did you decide to do about the diary?
 Dialogue: 0,0:00:31.62,0:00:33.90,Default,Lain,0,0,0,,I decided to keep a diary.
 Dialogue: 0,0:00:33.90,0:00:39.48,Default,Touko,0,0,0,,Wow, that’s great! I didn’t waste my money right before payday.
@@ -38,7 +39,7 @@ Dialogue: 0,0:00:58.13,0:00:58.62,Default,Touko,0,0,0,,Ha, ha.
 Dialogue: 0,0:00:59.65,0:01:01.30,Default,Touko,0,0,0,,Well, why don’t we begin?
 Dialogue: 0,0:01:02.40,0:01:04.34,Default,Touko,0,0,0,,Let’s pick up where we left off last time.
 Dialogue: 0,0:01:05.04,0:01:08.09,Default,Touko,0,0,0,,Have you learned the word "ego" at school?
-Dialogue: 0,0:01:08.53,0:01:15.02,Default,Lain,0,0,0,,Uh huh. I looked into it. It’s about knowing that you are yourself?
+Dialogue: 0,0:01:08.53,0:01:15.02,Default,Lain,0,0,0,,Uh-huh. I looked into it. It’s about knowing that you are yourself?
 Dialogue: 0,0:01:15.38,0:01:16.01,Default,Touko,0,0,0,,Right.
 Dialogue: 0,0:01:16.61,0:01:21.08,Default,Touko,0,0,0,,People around your age can get unsure about that.
 Dialogue: 0,0:01:22.18,0:01:32.34,Default,Touko,0,0,0,,They ask themselves "what kind of person am I?" Boys sometimes think that they are heroes and that they will accomplish some superhuman feat someday.

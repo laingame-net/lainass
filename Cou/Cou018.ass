@@ -9,8 +9,8 @@ YCbCr Matrix: None
 
 [Aegisub Project Garbage]
 Audio File: Cou018.mp4
-Scroll Position: 12
-Active Line: 21
+Scroll Position: 18
+Active Line: 22
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -40,7 +40,7 @@ Dialogue: 0,0:01:07.32,0:01:11.45,Default,Touko,0,0,0,,Mmm. It tastes like tea.
 Dialogue: 0,0:01:12.02,0:01:14.82,Default,Lain,0,0,0,,You said that you like tea, so we made the cookies that way.
 Dialogue: 0,0:01:16.09,0:01:20.66,Default,Touko,0,0,0,,Thank you. But then we better have a different kind of tea.
 Dialogue: 0,0:01:21.22,0:01:22.45,Default,Lain,0,0,0,,It won’t go with black tea?
-Dialogue: 0,0:01:22.45,0:01:27.74,Default,Touko,0,0,0,,No, not that it wouldn’t go with it, but it would be too bad if would couldn’t enjoy the tea and cookies as much as possible.
+Dialogue: 0,0:01:22.45,0:01:27.74,Default,Touko,0,0,0,,No, not that it wouldn’t go with it, but it would be too bad if we couldn’t enjoy the tea and cookies as much as possible.
 Dialogue: 0,0:01:28.14,0:01:30.10,Default,Lain,0,0,0,,Should I have made cookies with a different flavor?
 Dialogue: 0,0:01:30.65,0:01:31.92,Default,Touko,0,0,0,,Oh, no, no.
 Dialogue: 0,0:01:31.92,0:01:32.53,Default,Touko,0,0,0,,Not at all!
