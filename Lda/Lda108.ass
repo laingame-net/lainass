@@ -17,13 +17,13 @@ Style: Default,Arial,14,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
-Dialogue: 0,0:00:00.00,0:00:02.26,Default,Lain,0,0,0,,I finished my artwork of Misato-chan.
-Dialogue: 0,0:00:02.26,0:00:04.60,Default,Lain,0,0,0,,It was very popular in class.
-Dialogue: 0,0:00:04.60,0:00:07.58,Default,Lain,0,0,0,,It’s very pretty and artful.
-Dialogue: 0,0:00:08.24,0:00:13.60,Default,Lain,0,0,0,,I bet it will stand out and draw attention at the culture fair.
-Dialogue: 0,0:00:14.18,0:00:19.04,Default,Lain,0,0,0,,I used pastels and watercolors.
-Dialogue: 0,0:00:19.48,0:00:25.04,Default,Lain,0,0,0,,Misato-chan said that I did a good job, but I wonder if I really ought to have done a painting of her.
+Dialogue: 0,0:00:00.00,0:00:02.26,Default,Lain,0,0,0,,Misato-chan finished her artwork.
+Dialogue: 0,0:00:02.26,0:00:04.60,Default,Lain,0,0,0,,It was very popular in the art club.
+Dialogue: 0,0:00:04.60,0:00:07.58,Default,Lain,0,0,0,,It’s very pretty and really is a work of art.
+Dialogue: 0,0:00:08.24,0:00:13.60,Default,Lain,0,0,0,,I bet it will stand out and draw attention at the culture fair, since it's a size 50 oil painting.
+Dialogue: 0,0:00:14.18,0:00:19.04,Default,Lain,0,0,0,,I used watercolors on top of pastels, all on a size 10 canvas.
+Dialogue: 0,0:00:19.48,0:00:25.04,Default,Lain,0,0,0,,Misato-chan said that I did a good job, but I wonder if I should have done a painting of her.
 Dialogue: 0,0:00:26.90,0:00:30.24,Default,Lain,0,0,0,,I feel that I haven’t expressed myself as much as I wanted in my painting.
-Dialogue: 0,0:00:30.72,0:00:33.30,Default,Lain,0,0,0,,What kind of painting should I do?
+Dialogue: 0,0:00:30.72,0:00:33.30,Default,Lain,0,0,0,,What kind of painting should I make?
 Dialogue: 0,0:00:33.92,0:00:37.56,Default,Lain,0,0,0,,Misato-chan’s paintings seem like Misato-chan’s.
 Dialogue: 0,0:00:38.12,0:00:43.48,Default,Lain,0,0,0,,They are gentle and pretty, and seem to have an inner strength...
